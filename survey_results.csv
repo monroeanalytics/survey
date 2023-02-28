@@ -1,673 +1,769 @@
 "","Cohort","Respondent","Region","Structural.Factor","Question_Ref","Question","Period","Value","Value_No"
-"1","Strategy Council","Matt Barron","North America","Conditions of Demand","Q1","Speed of Decline","Current","Moderate",3
-"2","Working Team","Travis Grimes","North America","Conditions of Demand","Q1","Speed of Decline","Current","Moderate",3
-"3","Strategy Council","Greg Gibson","North America","Conditions of Demand","Q1","Speed of Decline","Current","Slow",2
-"4","Strategy Council","Oliver Taudien","North America","Conditions of Demand","Q1","Speed of Decline","Current","Fast",4
-"5","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q1","Speed of Decline","Current","Moderate",3
-"6","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q1","Speed of Decline","Current","Moderate",3
-"7","Working Team","Jeff Monroe","North America","Conditions of Demand","Q1","Speed of Decline","Current","Moderate",3
-"8","Strategy Council","Matt Barron","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Moderate",3
-"9","Working Team","Travis Grimes","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Slow",2
-"10","Strategy Council","Greg Gibson","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Slow",2
-"11","Strategy Council","Oliver Taudien","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Fast",4
-"12","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Moderate",3
-"13","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Slow",2
-"14","Working Team","Jeff Monroe","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Slow",2
-"15","Strategy Council","Matt Barron","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Somewhat Certain",2
-"16","Working Team","Travis Grimes","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Certain",3
-"17","Strategy Council","Greg Gibson","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Very Uncertain",5
-"18","Strategy Council","Oliver Taudien","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Very Certain",1
-"19","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Certain",3
-"20","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Certain",3
-"21","Working Team","Jeff Monroe","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Certain",3
-"22","Strategy Council","Matt Barron","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Somewhat Certain",2
-"23","Working Team","Travis Grimes","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Certain",3
-"24","Strategy Council","Greg Gibson","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Certain",3
-"25","Strategy Council","Oliver Taudien","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Somewhat Certain",2
-"26","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Certain",3
-"27","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Certain",3
-"28","Working Team","Jeff Monroe","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Somewhat Uncertain",4
-"29","Strategy Council","Matt Barron","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Some",2
-"30","Working Team","Travis Grimes","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Few",3
-"31","Strategy Council","Greg Gibson","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Some",2
-"32","Strategy Council","Oliver Taudien","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Few",3
-"33","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Some",2
-"34","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Few",3
-"35","Working Team","Jeff Monroe","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Few",3
-"36","Strategy Council","Matt Barron","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Some",2
-"37","Working Team","Travis Grimes","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Few",3
-"38","Strategy Council","Greg Gibson","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Some",2
-"39","Strategy Council","Oliver Taudien","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Few",3
-"40","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Some",2
-"41","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Few",3
-"42","Working Team","Jeff Monroe","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Very few",4
-"43","Strategy Council","Matt Barron","North America","Conditions of Demand","Q4","Product Differentiation","Current","Somehewhat Commoditized",4
-"44","Working Team","Travis Grimes","North America","Conditions of Demand","Q4","Product Differentiation","Current","Somewhat Branded",2
-"45","Strategy Council","Greg Gibson","North America","Conditions of Demand","Q4","Product Differentiation","Current","Somehewhat Commoditized",4
-"46","Strategy Council","Oliver Taudien","North America","Conditions of Demand","Q4","Product Differentiation","Current","Mixed",3
-"47","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q4","Product Differentiation","Current","Somehewhat Commoditized",4
-"48","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q4","Product Differentiation","Current","Commoditized",5
-"49","Working Team","Jeff Monroe","North America","Conditions of Demand","Q4","Product Differentiation","Current","Somehewhat Commoditized",4
-"50","Strategy Council","Matt Barron","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Somehewhat Commoditized",4
-"51","Working Team","Travis Grimes","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Somewhat Branded",2
-"52","Strategy Council","Greg Gibson","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Somehewhat Commoditized",4
-"53","Strategy Council","Oliver Taudien","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Mixed",3
-"54","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Somehewhat Commoditized",4
-"55","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Commoditized",5
-"56","Working Team","Jeff Monroe","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Commoditized",5
-"57","Strategy Council","Matt Barron","North America","Conditions of Demand","Q5","Price Stabiity","Current","Somewhat Stable",2
-"58","Working Team","Travis Grimes","North America","Conditions of Demand","Q5","Price Stabiity","Current","Somewhat Stable",2
-"59","Strategy Council","Greg Gibson","North America","Conditions of Demand","Q5","Price Stabiity","Current","Highly Stable",1
-"60","Strategy Council","Oliver Taudien","North America","Conditions of Demand","Q5","Price Stabiity","Current","Somewhat Stable",2
-"61","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q5","Price Stabiity","Current","Neutral",3
-"62","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q5","Price Stabiity","Current","Somewhat Stable",2
-"63","Working Team","Jeff Monroe","North America","Conditions of Demand","Q5","Price Stabiity","Current","Somewhat Stable",2
-"64","Strategy Council","Matt Barron","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Somewhat Stable",2
-"65","Working Team","Travis Grimes","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Somewhat Stable",2
-"66","Strategy Council","Greg Gibson","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Somewhat Stable",2
-"67","Strategy Council","Oliver Taudien","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Somewhat Stable",2
-"68","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Somewhat Stable",2
-"69","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Somewhat Stable",2
-"70","Working Team","Jeff Monroe","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Neutral",3
-"71","Strategy Council","Matt Barron","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","Some",4
-"72","Working Team","Travis Grimes","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","Some",4
-"73","Strategy Council","Greg Gibson","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","Few",3
-"74","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","Some",4
-"75","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","Some",4
-"76","Strategy Council","Kristine Vela","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","Some",4
-"77","Working Team","Jeff Monroe","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","Few",3
-"78","Strategy Council","Matt Barron","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","Some",4
-"79","Working Team","Travis Grimes","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","Some",4
-"80","Strategy Council","Greg Gibson","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","High",5
-"81","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","Some",4
-"82","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","Some",4
-"83","Strategy Council","Kristine Vela","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","Some",4
-"84","Working Team","Jeff Monroe","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","Some",4
-"85","Strategy Council","Matt Barron","North America","Exit Barriers","Q7","Excess Capacity","Current","Some",3
-"86","Working Team","Travis Grimes","North America","Exit Barriers","Q7","Excess Capacity","Current","Some",3
-"87","Strategy Council","Greg Gibson","North America","Exit Barriers","Q7","Excess Capacity","Current","Some",3
-"88","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q7","Excess Capacity","Current","Some",3
-"89","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q7","Excess Capacity","Current","Some",3
-"90","Strategy Council","Kristine Vela","North America","Exit Barriers","Q7","Excess Capacity","Current","Some",3
-"91","Working Team","Jeff Monroe","North America","Exit Barriers","Q7","Excess Capacity","Current","Some",3
-"92","Strategy Council","Matt Barron","North America","Exit Barriers","Q7F","Excess Capacity","Future","Substantial",4
-"93","Working Team","Travis Grimes","North America","Exit Barriers","Q7F","Excess Capacity","Future","Some",3
-"94","Strategy Council","Greg Gibson","North America","Exit Barriers","Q7F","Excess Capacity","Future","Substantial",4
-"95","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q7F","Excess Capacity","Future","Some",3
-"96","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q7F","Excess Capacity","Future","Some",3
-"97","Strategy Council","Kristine Vela","North America","Exit Barriers","Q7F","Excess Capacity","Future","Some",3
-"98","Working Team","Jeff Monroe","North America","Exit Barriers","Q7F","Excess Capacity","Future","Substantial",4
-"99","Strategy Council","Matt Barron","North America","Exit Barriers","Q8","Asset Age","Current","Mostly Old",1
-"100","Working Team","Travis Grimes","North America","Exit Barriers","Q8","Asset Age","Current","Few Old",2
-"101","Strategy Council","Greg Gibson","North America","Exit Barriers","Q8","Asset Age","Current","Mostly Old",1
-"102","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q8","Asset Age","Current","Few Old",2
-"103","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q8","Asset Age","Current","Neutral",3
-"104","Strategy Council","Kristine Vela","North America","Exit Barriers","Q8","Asset Age","Current","Mostly Old",1
-"105","Working Team","Jeff Monroe","North America","Exit Barriers","Q8","Asset Age","Current","Few Old",2
-"106","Strategy Council","Matt Barron","North America","Exit Barriers","Q8F","Asset Age","Future","Mostly Old",1
-"107","Working Team","Travis Grimes","North America","Exit Barriers","Q8F","Asset Age","Future","Few Old",2
-"108","Strategy Council","Greg Gibson","North America","Exit Barriers","Q8F","Asset Age","Future","Mostly Old",1
-"109","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q8F","Asset Age","Future","Few Old",2
-"110","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q8F","Asset Age","Future","Few New",4
-"111","Strategy Council","Kristine Vela","North America","Exit Barriers","Q8F","Asset Age","Future","Mostly Old",1
-"112","Working Team","Jeff Monroe","North America","Exit Barriers","Q8F","Asset Age","Future","Mostly Old",1
-"113","Strategy Council","Matt Barron","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Somewhat Easy",2
-"114","Working Team","Travis Grimes","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Difficult",5
-"115","Strategy Council","Greg Gibson","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Somewhat Difficult",4
-"116","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Difficult",5
-"117","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Somewhat Difficult",4
-"118","Strategy Council","Kristine Vela","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Neutral",3
-"119","Working Team","Jeff Monroe","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Somewhat Difficult",4
-"120","Strategy Council","Matt Barron","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Somewhat Easy",2
-"121","Working Team","Travis Grimes","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Difficult",5
-"122","Strategy Council","Greg Gibson","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Difficult",5
-"123","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Difficult",5
-"124","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Somewhat Difficult",4
-"125","Strategy Council","Kristine Vela","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Neutral",3
-"126","Working Team","Jeff Monroe","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Difficult",5
-"127","Strategy Council","Matt Barron","North America","Exit Barriers","Q10","Shared Facilities","Current","Some",3
-"128","Working Team","Travis Grimes","North America","Exit Barriers","Q10","Shared Facilities","Current","Few",2
-"129","Strategy Council","Greg Gibson","North America","Exit Barriers","Q10","Shared Facilities","Current","Mostly Standalone",1
-"130","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q10","Shared Facilities","Current","Mostly Shared",5
-"131","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q10","Shared Facilities","Current","Some",3
-"132","Strategy Council","Kristine Vela","North America","Exit Barriers","Q10","Shared Facilities","Current","Mostly Standalone",1
-"133","Working Team","Jeff Monroe","North America","Exit Barriers","Q10","Shared Facilities","Current","Few",2
-"134","Strategy Council","Matt Barron","North America","Exit Barriers","Q10F","Shared Facilities","Future","Some",3
-"135","Working Team","Travis Grimes","North America","Exit Barriers","Q10F","Shared Facilities","Future","Few",2
-"136","Strategy Council","Greg Gibson","North America","Exit Barriers","Q10F","Shared Facilities","Future","Mostly Standalone",1
-"137","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q10F","Shared Facilities","Future","Mostly Shared",5
-"138","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q10F","Shared Facilities","Future","Mostly Standalone",1
-"139","Strategy Council","Kristine Vela","North America","Exit Barriers","Q10F","Shared Facilities","Future","Mostly Standalone",1
-"140","Working Team","Jeff Monroe","North America","Exit Barriers","Q10F","Shared Facilities","Future","Some",3
-"141","Strategy Council","Matt Barron","North America","Exit Barriers","Q11","Vertical Integration","Current","Little",2
-"142","Working Team","Travis Grimes","North America","Exit Barriers","Q11","Vertical Integration","Current","Substantial",4
-"143","Strategy Council","Greg Gibson","North America","Exit Barriers","Q11","Vertical Integration","Current","Very Little",1
-"144","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q11","Vertical Integration","Current","Substantial",4
-"145","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q11","Vertical Integration","Current","Some",3
-"146","Strategy Council","Kristine Vela","North America","Exit Barriers","Q11","Vertical Integration","Current","Very Little",1
-"147","Working Team","Jeff Monroe","North America","Exit Barriers","Q11","Vertical Integration","Current","Very Little",1
-"148","Strategy Council","Matt Barron","North America","Exit Barriers","Q11F","Vertical Integration","Future","Little",2
-"149","Working Team","Travis Grimes","North America","Exit Barriers","Q11F","Vertical Integration","Future","Substantial",4
-"150","Strategy Council","Greg Gibson","North America","Exit Barriers","Q11F","Vertical Integration","Future","Very Little",1
-"151","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q11F","Vertical Integration","Future","Substantial",4
-"152","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q11F","Vertical Integration","Future","Substantial",4
-"153","Strategy Council","Kristine Vela","North America","Exit Barriers","Q11F","Vertical Integration","Future","Very Little",1
-"154","Working Team","Jeff Monroe","North America","Exit Barriers","Q11F","Vertical Integration","Future","Little",2
-"155","Strategy Council","Matt Barron","North America","Exit Barriers","Q12","Single Product Competitors","Current","Few",3
-"156","Working Team","Travis Grimes","North America","Exit Barriers","Q12","Single Product Competitors","Current","Very Few",2
-"157","Strategy Council","Greg Gibson","North America","Exit Barriers","Q12","Single Product Competitors","Current","Few",3
-"158","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q12","Single Product Competitors","Current","Some",4
-"159","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q12","Single Product Competitors","Current","Few",3
-"160","Strategy Council","Kristine Vela","North America","Exit Barriers","Q12","Single Product Competitors","Current","Very Few",2
-"161","Working Team","Jeff Monroe","North America","Exit Barriers","Q12","Single Product Competitors","Current","Few",3
-"162","Strategy Council","Matt Barron","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Few",3
-"163","Working Team","Travis Grimes","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Very Few",2
-"164","Strategy Council","Greg Gibson","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Few",3
-"165","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Few",3
-"166","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Few",3
-"167","Strategy Council","Kristine Vela","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Few",3
-"168","Working Team","Jeff Monroe","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Some",4
-"169","Strategy Council","Matt Barron","North America","Rivalry Determinants","Q13","Customer Power","Current","Neutral",3
-"170","Working Team","Travis Grimes","North America","Rivalry Determinants","Q13","Customer Power","Current","Neutral",3
-"171","Strategy Council","Greg Gibson","North America","Rivalry Determinants","Q13","Customer Power","Current","Weak",2
-"172","Strategy Council","Oliver Taudien","North America","Rivalry Determinants","Q13","Customer Power","Current","Strong",4
-"173","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q13","Customer Power","Current","Strong",4
-"174","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q13","Customer Power","Current","Neutral",3
-"175","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q13","Customer Power","Current","Strong",4
-"176","Strategy Council","Matt Barron","North America","Rivalry Determinants","Q13F","Customer Power","Future","Neutral",3
-"177","Working Team","Travis Grimes","North America","Rivalry Determinants","Q13F","Customer Power","Future","Neutral",3
-"178","Strategy Council","Greg Gibson","North America","Rivalry Determinants","Q13F","Customer Power","Future","Strong",4
-"179","Strategy Council","Oliver Taudien","North America","Rivalry Determinants","Q13F","Customer Power","Future","Strong",4
-"180","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q13F","Customer Power","Future","Neutral",3
-"181","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q13F","Customer Power","Future","Strong",4
-"182","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q13F","Customer Power","Future","Very Strong",5
-"183","Strategy Council","Matt Barron","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Minimal",4
-"184","Working Team","Travis Grimes","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","High",2
-"185","Strategy Council","Greg Gibson","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Few",3
-"186","Strategy Council","Oliver Taudien","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Few",3
-"187","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Few",3
-"188","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Few",3
-"189","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Minimal",4
-"190","Strategy Council","Matt Barron","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","Minimal",4
-"191","Working Team","Travis Grimes","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","High",2
-"192","Strategy Council","Greg Gibson","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","Few",3
-"193","Strategy Council","Oliver Taudien","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","Few",3
-"194","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","High",2
-"195","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","Few",3
-"196","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","Very Minimal",5
-"197","Strategy Council","Matt Barron","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Some",2
-"198","Working Team","Travis Grimes","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Some",2
-"199","Strategy Council","Greg Gibson","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Significant",1
-"200","Strategy Council","Oliver Taudien","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Few",3
-"201","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Some",2
-"202","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Significant",1
-"203","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Some",2
-"204","Strategy Council","Matt Barron","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Some",2
-"205","Working Team","Travis Grimes","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Some",2
-"206","Strategy Council","Greg Gibson","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Significant",1
-"207","Strategy Council","Oliver Taudien","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Few",3
-"208","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Some",2
-"209","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Significant",1
-"210","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Significant",1
-"211","Strategy Council","Matt Barron","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Concentrated",4
-"212","Working Team","Travis Grimes","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Concentrated",4
-"213","Strategy Council","Greg Gibson","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Concentrated",4
-"214","Strategy Council","Oliver Taudien","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Concentrated",4
-"215","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Balanced",3
-"216","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Highly Concentrated",5
-"217","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Concentrated",4
-"218","Strategy Council","Matt Barron","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Concentrated",4
-"219","Working Team","Travis Grimes","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Concentrated",4
-"220","Strategy Council","Greg Gibson","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Highly Concentrated",5
-"221","Strategy Council","Oliver Taudien","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Concentrated",4
-"222","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Concentrated",4
-"223","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Highly Concentrated",5
-"224","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Highly Concentrated",5
-"225","Strategy Council","Matt Barron","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Moderate",3
-"226","Working Team","Travis Grimes","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Moderate",3
-"227","Strategy Council","Greg Gibson","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Moderate",3
-"228","Strategy Council","Oliver Taudien","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Moderate",3
-"229","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Fast",4
-"230","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Moderate",3
-"231","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Moderate",3
-"232","Strategy Council","Matt Barron","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Moderate",3
-"233","Working Team","Travis Grimes","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Slow",2
-"234","Strategy Council","Greg Gibson","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Moderate",3
-"235","Strategy Council","Oliver Taudien","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Moderate",3
-"236","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Moderate",3
-"237","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Moderate",3
-"238","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Moderate",3
-"239","Strategy Council","Matt Barron","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Somewhat Certain",2
-"240","Working Team","Travis Grimes","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Certain",3
-"241","Strategy Council","Greg Gibson","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Certain",3
-"242","Strategy Council","Oliver Taudien","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Very Certain",1
-"243","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Certain",3
-"244","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Certain",3
-"245","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Certain",3
-"246","Strategy Council","Matt Barron","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Somewhat Certain",2
-"247","Working Team","Travis Grimes","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Certain",3
-"248","Strategy Council","Greg Gibson","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Somewhat Uncertain",4
-"249","Strategy Council","Oliver Taudien","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Somewhat Certain",2
-"250","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Somewhat Uncertain",4
-"251","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Certain",3
-"252","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Somewhat Uncertain",4
-"253","Strategy Council","Matt Barron","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Some",2
-"254","Working Team","Travis Grimes","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Few",3
-"255","Strategy Council","Greg Gibson","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Few",3
-"256","Strategy Council","Oliver Taudien","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Some",2
-"257","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Few",3
-"258","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Few",3
-"259","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Few",3
-"260","Strategy Council","Matt Barron","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Some",2
-"261","Working Team","Travis Grimes","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Few",3
-"262","Strategy Council","Greg Gibson","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Few",3
-"263","Strategy Council","Oliver Taudien","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Some",2
-"264","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Few",3
-"265","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Few",3
-"266","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Very few",4
-"267","Strategy Council","Matt Barron","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Somehewhat Commoditized",4
-"268","Working Team","Travis Grimes","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Somewhat Branded",2
-"269","Strategy Council","Greg Gibson","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Mixed",3
-"270","Strategy Council","Oliver Taudien","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Somewhat Branded",2
-"271","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Somehewhat Commoditized",4
-"272","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Commoditized",5
-"273","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Mixed",3
-"274","Strategy Council","Matt Barron","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Somehewhat Commoditized",4
-"275","Working Team","Travis Grimes","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Somewhat Branded",2
-"276","Strategy Council","Greg Gibson","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Mixed",3
-"277","Strategy Council","Oliver Taudien","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Somewhat Branded",2
-"278","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Somehewhat Commoditized",4
-"279","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Commoditized",5
-"280","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Somehewhat Commoditized",4
-"281","Strategy Council","Matt Barron","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Somewhat Stable",2
-"282","Working Team","Travis Grimes","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Neutral",3
-"283","Strategy Council","Greg Gibson","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Neutral",3
-"284","Strategy Council","Oliver Taudien","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Neutral",3
-"285","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Somehewhat Unstable",4
-"286","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Somewhat Stable",2
-"287","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Neutral",3
-"288","Strategy Council","Matt Barron","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Somewhat Stable",2
-"289","Working Team","Travis Grimes","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Somewhat Stable",2
-"290","Strategy Council","Greg Gibson","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Neutral",3
-"291","Strategy Council","Oliver Taudien","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Somewhat Stable",2
-"292","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Neutral",3
-"293","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Somewhat Stable",2
-"294","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Somehewhat Unstable",4
-"295","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Some",4
-"296","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Some",4
-"297","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Very Few",2
-"298","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Some",4
-"299","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Some",4
-"300","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Few",3
-"301","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Some",4
-"302","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","Some",4
-"303","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","Some",4
-"304","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","High",5
-"305","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","Few",3
-"306","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","Some",4
-"307","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","Few",3
-"308","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","High",5
-"309","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Some",3
-"310","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Some",3
-"311","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Some",3
-"312","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Some",3
-"313","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Substantial",4
-"314","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Some",3
-"315","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Substantial",4
-"316","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Substantial",4
-"317","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Some",3
-"318","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Substantial",4
-"319","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Little",2
-"320","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Little",2
-"321","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Some",3
-"322","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Very Substantial",5
-"323","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q24","Asset Age","Current","Mostly Old",1
-"324","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q24","Asset Age","Current","Few Old",2
-"325","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q24","Asset Age","Current","Mostly Old",1
-"326","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q24","Asset Age","Current","Few Old",2
-"327","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q24","Asset Age","Current","Neutral",3
-"328","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q24","Asset Age","Current","Mostly Old",1
-"329","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q24","Asset Age","Current","Few Old",2
-"330","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Mostly Old",1
-"331","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Few Old",2
-"332","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Mostly Old",1
-"333","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Few Old",2
-"334","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Few Old",2
-"335","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Mostly Old",1
-"336","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Mostly Old",1
-"337","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Somewhat Easy",2
-"338","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Difficult",5
-"339","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Somewhat Difficult",4
-"340","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Somewhat Difficult",4
-"341","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Difficult",5
-"342","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Neutral",3
-"343","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Somewhat Difficult",4
-"344","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Somewhat Easy",2
-"345","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Difficult",5
-"346","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Difficult",5
-"347","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Somewhat Difficult",4
-"348","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Difficult",5
-"349","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Neutral",3
-"350","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Difficult",5
-"351","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Some",3
-"352","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Substantial",4
-"353","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Mostly Standalone",1
-"354","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Substantial",4
-"355","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Few",2
-"356","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Mostly Standalone",1
-"357","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Some",3
-"358","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Some",3
-"359","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Substantial",4
-"360","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Mostly Standalone",1
-"361","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Substantial",4
-"362","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Few",2
-"363","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Mostly Standalone",1
-"364","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Some",3
-"365","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Little",2
-"366","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Some",3
-"367","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Very Little",1
-"368","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Some",3
-"369","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Some",3
-"370","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Very Little",1
-"371","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Little",2
-"372","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Little",2
-"373","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Some",3
-"374","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Very Little",1
-"375","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Some",3
-"376","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Substantial",4
-"377","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Very Little",1
-"378","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Very Little",1
-"379","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Few",3
-"380","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Very Few",2
-"381","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Few",3
-"382","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Few",3
-"383","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Few",3
-"384","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Few",3
-"385","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Few",3
-"386","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Few",3
-"387","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Very Few",2
-"388","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Few",3
-"389","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Few",3
-"390","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Few",3
-"391","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Few",3
-"392","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Very Few",2
-"393","Strategy Council","Matt Barron","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Neutral",3
-"394","Working Team","Travis Grimes","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Neutral",3
-"395","Strategy Council","Greg Gibson","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Neutral",3
-"396","Strategy Council","Oliver Taudien","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Neutral",3
-"397","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Strong",4
-"398","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Neutral",3
-"399","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Neutral",3
-"400","Strategy Council","Matt Barron","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Neutral",3
-"401","Working Team","Travis Grimes","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Neutral",3
-"402","Strategy Council","Greg Gibson","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Strong",4
-"403","Strategy Council","Oliver Taudien","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Neutral",3
-"404","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Neutral",3
-"405","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Neutral",3
-"406","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Strong",4
-"407","Strategy Council","Matt Barron","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Few",3
-"408","Working Team","Travis Grimes","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","High",2
-"409","Strategy Council","Greg Gibson","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Few",3
-"410","Strategy Council","Oliver Taudien","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Few",3
-"411","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Minimal",4
-"412","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Few",3
-"413","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Few",3
-"414","Strategy Council","Matt Barron","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Few",3
-"415","Working Team","Travis Grimes","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","High",2
-"416","Strategy Council","Greg Gibson","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Few",3
-"417","Strategy Council","Oliver Taudien","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Few",3
-"418","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Few",3
-"419","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Few",3
-"420","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Minimal",4
-"421","Strategy Council","Matt Barron","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Some",2
-"422","Working Team","Travis Grimes","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Some",2
-"423","Strategy Council","Greg Gibson","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Some",2
-"424","Strategy Council","Oliver Taudien","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Few",3
-"425","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Significant",1
-"426","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Significant",1
-"427","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Some",2
-"428","Strategy Council","Matt Barron","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Some",2
-"429","Working Team","Travis Grimes","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Some",2
-"430","Strategy Council","Greg Gibson","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Some",2
-"431","Strategy Council","Oliver Taudien","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Few",3
-"432","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Significant",1
-"433","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Significant",1
-"434","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Significant",1
-"435","Strategy Council","Matt Barron","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Concentrated",4
-"436","Working Team","Travis Grimes","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Balanced",3
-"437","Strategy Council","Greg Gibson","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Fragmented",2
-"438","Strategy Council","Oliver Taudien","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Fragmented",2
-"439","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Balanced",3
-"440","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Fragmented",2
-"441","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Concentrated",4
-"442","Strategy Council","Matt Barron","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Concentrated",4
-"443","Working Team","Travis Grimes","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Balanced",3
-"444","Strategy Council","Greg Gibson","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Concentrated",4
-"445","Strategy Council","Oliver Taudien","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Concentrated",4
-"446","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Concentrated",4
-"447","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Balanced",3
-"448","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Highly Concentrated",5
-"449","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Very Slow",1
-"450","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Slow",2
-"451","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Very Slow",1
-"452","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Moderate",3
-"453","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Slow",2
-"454","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Very Slow",1
-"455","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Moderate",3
-"456","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Very Slow",1
-"457","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Slow",2
-"458","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Very Slow",1
-"459","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Fast",4
-"460","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Slow",2
-"461","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Very Slow",1
-"462","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Moderate",3
-"463","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Very Certain",1
-"464","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Certain",3
-"465","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Certain",3
-"466","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Somewhat Certain",2
-"467","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Somewhat Uncertain",4
-"468","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Very Certain",1
-"469","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Certain",3
-"470","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Very Certain",1
-"471","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Certain",3
-"472","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Certain",3
-"473","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Certain",3
-"474","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Somewhat Uncertain",4
-"475","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Very Certain",1
-"476","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Certain",3
-"477","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Some",2
-"478","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Few",3
-"479","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Few",3
-"480","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Some",2
-"481","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Some",2
-"482","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Some",2
-"483","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Few",3
-"484","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Some",2
-"485","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Few",3
-"486","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Few",3
-"487","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Some",2
-"488","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Some",2
-"489","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Some",2
-"490","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Some",2
-"491","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Somehewhat Commoditized",4
-"492","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Somewhat Branded",2
-"493","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Mixed",3
-"494","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Somewhat Branded",2
-"495","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Somewhat Branded",2
-"496","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Commoditized",5
-"497","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Somehewhat Commoditized",4
-"498","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Somehewhat Commoditized",4
-"499","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Somewhat Branded",2
-"500","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Mixed",3
-"501","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Somewhat Branded",2
-"502","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Somewhat Branded",2
-"503","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Commoditized",5
-"504","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Commoditized",5
-"505","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Somewhat Stable",2
-"506","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Neutral",3
-"507","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Highly Stable",1
-"508","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Somewhat Stable",2
-"509","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Neutral",3
-"510","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Somewhat Stable",2
-"511","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Neutral",3
-"512","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Somewhat Stable",2
-"513","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Neutral",3
-"514","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Highly Stable",1
-"515","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Somewhat Stable",2
-"516","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Neutral",3
-"517","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Somewhat Stable",2
-"518","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Somehewhat Unstable",4
-"519","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Some",4
-"520","Working Team","Travis Grimes","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Some",4
-"521","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Very Few",2
-"522","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Few",3
-"523","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Some",4
-"524","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Low",1
-"525","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Some",4
-"526","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","Some",4
-"527","Working Team","Travis Grimes","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","Some",4
-"528","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","Few",3
-"529","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","Few",3
-"530","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","High",5
-"531","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","Low",1
-"532","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","High",5
-"533","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Very Little",1
-"534","Working Team","Travis Grimes","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Some",3
-"535","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Some",3
-"536","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Some",3
-"537","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Little",2
-"538","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Very Little",1
-"539","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Some",3
-"540","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Very Little",1
-"541","Working Team","Travis Grimes","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Some",3
-"542","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Some",3
-"543","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Some",3
-"544","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Little",2
-"545","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Very Little",1
-"546","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Substantial",4
-"547","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q40","Asset Age","Current","Mostly Old",1
-"548","Working Team","Travis Grimes","Latin America","Exit Barriers","Q40","Asset Age","Current","Few Old",2
-"549","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q40","Asset Age","Current","Few New",4
-"550","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q40","Asset Age","Current","Few Old",2
-"551","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q40","Asset Age","Current","Few Old",2
-"552","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q40","Asset Age","Current","Few New",4
-"553","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q40","Asset Age","Current","Neutral",3
-"554","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q40F","Asset Age","Future","Mostly Old",1
-"555","Working Team","Travis Grimes","Latin America","Exit Barriers","Q40F","Asset Age","Future","Few Old",2
-"556","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q40F","Asset Age","Future","Neutral",3
-"557","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q40F","Asset Age","Future","Few Old",2
-"558","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q40F","Asset Age","Future","Few Old",2
-"559","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q40F","Asset Age","Future","Few New",4
-"560","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q40F","Asset Age","Future","Few Old",2
-"561","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Somewhat Easy",2
-"562","Working Team","Travis Grimes","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Difficult",5
-"563","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Neutral",3
-"564","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Difficult",5
-"565","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Difficult",5
-"566","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Somewhat Easy",2
-"567","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Somewhat Easy",2
-"568","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Somewhat Easy",2
-"569","Working Team","Travis Grimes","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Difficult",5
-"570","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Somewhat Difficult",4
-"571","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Somewhat Difficult",4
-"572","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Somewhat Difficult",4
-"573","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Somewhat Easy",2
-"574","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Neutral",3
-"575","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Some",3
-"576","Working Team","Travis Grimes","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Some",3
-"577","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Few",2
-"578","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Some",3
-"579","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Few",2
-"580","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Mostly Standalone",1
-"581","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Some",3
-"582","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Some",3
-"583","Working Team","Travis Grimes","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Some",3
-"584","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Few",2
-"585","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Some",3
-"586","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Few",2
-"587","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Mostly Standalone",1
-"588","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Some",3
-"589","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Some",3
-"590","Working Team","Travis Grimes","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Substantial",4
-"591","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Little",2
-"592","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Substantial",4
-"593","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Very Substantial",5
-"594","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Very Little",1
-"595","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Little",2
-"596","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Some",3
-"597","Working Team","Travis Grimes","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Substantial",4
-"598","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Little",2
-"599","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Substantial",4
-"600","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Very Substantial",5
-"601","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Very Little",1
-"602","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Little",2
-"603","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Few",3
-"604","Working Team","Travis Grimes","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Very Few",2
-"605","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Few",3
-"606","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Few",3
-"607","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Some",4
-"608","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Few",3
-"609","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Very Few",2
-"610","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Few",3
-"611","Working Team","Travis Grimes","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Very Few",2
-"612","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Few",3
-"613","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Few",3
-"614","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Some",4
-"615","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Few",3
-"616","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Very Few",2
-"617","Strategy Council","Matt Barron","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Neutral",3
-"618","Working Team","Travis Grimes","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Neutral",3
-"619","Strategy Council","Greg Gibson","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Weak",2
-"620","Strategy Council","Oliver Taudien","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Neutral",3
-"621","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Weak",2
-"622","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Very Weak",1
-"623","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Strong",4
-"624","Strategy Council","Matt Barron","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Neutral",3
-"625","Working Team","Travis Grimes","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Neutral",3
-"626","Strategy Council","Greg Gibson","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Weak",2
-"627","Strategy Council","Oliver Taudien","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Neutral",3
-"628","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Weak",2
-"629","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Very Weak",1
-"630","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Very Strong",5
-"631","Strategy Council","Matt Barron","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","Few",3
-"632","Working Team","Travis Grimes","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","High",2
-"633","Strategy Council","Greg Gibson","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","High",2
-"634","Strategy Council","Oliver Taudien","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","Few",3
-"635","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","High",2
-"636","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","Few",3
-"637","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","Minimal",4
-"638","Strategy Council","Matt Barron","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","Few",3
-"639","Working Team","Travis Grimes","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","High",2
-"640","Strategy Council","Greg Gibson","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","High",2
-"641","Strategy Council","Oliver Taudien","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","Few",3
-"642","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","High",2
-"643","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","Few",3
-"644","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","Very Minimal",5
-"645","Strategy Council","Matt Barron","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Some",2
-"646","Working Team","Travis Grimes","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Some",2
-"647","Strategy Council","Greg Gibson","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Significant",1
-"648","Strategy Council","Oliver Taudien","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Few",3
-"649","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Some",2
-"650","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Significant",1
-"651","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Some",2
-"652","Strategy Council","Matt Barron","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Some",2
-"653","Working Team","Travis Grimes","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Some",2
-"654","Strategy Council","Greg Gibson","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Significant",1
-"655","Strategy Council","Oliver Taudien","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Few",3
-"656","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Significant",1
-"657","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Significant",1
-"658","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Significant",1
-"659","Strategy Council","Matt Barron","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Balanced",3
-"660","Working Team","Travis Grimes","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Concentrated",4
-"661","Strategy Council","Greg Gibson","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Highly Concentrated",5
-"662","Strategy Council","Oliver Taudien","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Concentrated",4
-"663","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Concentrated",4
-"664","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Highly Concentrated",5
-"665","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Highly Concentrated",5
-"666","Strategy Council","Matt Barron","Latin America","Rivalry Determinants","Q48F","Number of Competitors","Future","Balanced",3
-"667","Working Team","Travis Grimes","Latin America","Rivalry Determinants","Q48F","Number of Competitors","Future","Concentrated",4
-"668","Strategy Council","Greg Gibson","Latin America","Rivalry Determinants","Q48F","Number of Competitors","Future","Highly Concentrated",5
-"669","Strategy Council","Oliver Taudien","Latin America","Rivalry Determinants","Q48F","Number of Competitors","Future","Concentrated",4
-"670","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q48F","Number of Competitors","Future","Concentrated",4
-"671","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q48F","Number of Competitors","Future","Highly Concentrated",5
-"672","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q48F","Number of Competitors","Future","Highly Concentrated",5
+"1","Working Team","Evgeny Dymkin","North America","Conditions of Demand","Q1","Speed of Decline","Current","Moderate",3
+"2","Strategy Council","Matt Barron","North America","Conditions of Demand","Q1","Speed of Decline","Current","Moderate",3
+"3","Working Team","Travis Grimes","North America","Conditions of Demand","Q1","Speed of Decline","Current","Moderate",3
+"4","Strategy Council","Greg Gibson","North America","Conditions of Demand","Q1","Speed of Decline","Current","Slow",2
+"5","Strategy Council","Oliver Taudien","North America","Conditions of Demand","Q1","Speed of Decline","Current","Fast",4
+"6","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q1","Speed of Decline","Current","Moderate",3
+"7","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q1","Speed of Decline","Current","Moderate",3
+"8","Working Team","Jeff Monroe","North America","Conditions of Demand","Q1","Speed of Decline","Current","Moderate",3
+"9","Working Team","Evgeny Dymkin","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Slow",2
+"10","Strategy Council","Matt Barron","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Moderate",3
+"11","Working Team","Travis Grimes","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Slow",2
+"12","Strategy Council","Greg Gibson","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Slow",2
+"13","Strategy Council","Oliver Taudien","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Fast",4
+"14","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Moderate",3
+"15","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Slow",2
+"16","Working Team","Jeff Monroe","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Slow",2
+"17","Working Team","Evgeny Dymkin","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Very Certain",1
+"18","Strategy Council","Matt Barron","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Somewhat Certain",2
+"19","Working Team","Travis Grimes","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Certain",3
+"20","Strategy Council","Greg Gibson","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Very Uncertain",5
+"21","Strategy Council","Oliver Taudien","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Very Certain",1
+"22","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Certain",3
+"23","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Certain",3
+"24","Working Team","Jeff Monroe","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Certain",3
+"25","Working Team","Evgeny Dymkin","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Very Certain",1
+"26","Strategy Council","Matt Barron","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Somewhat Certain",2
+"27","Working Team","Travis Grimes","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Certain",3
+"28","Strategy Council","Greg Gibson","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Certain",3
+"29","Strategy Council","Oliver Taudien","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Somewhat Certain",2
+"30","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Certain",3
+"31","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Certain",3
+"32","Working Team","Jeff Monroe","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Somewhat Uncertain",4
+"33","Working Team","Evgeny Dymkin","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Very few",4
+"34","Strategy Council","Matt Barron","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Some",2
+"35","Working Team","Travis Grimes","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Few",3
+"36","Strategy Council","Greg Gibson","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Some",2
+"37","Strategy Council","Oliver Taudien","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Few",3
+"38","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Some",2
+"39","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Few",3
+"40","Working Team","Jeff Monroe","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Few",3
+"41","Working Team","Evgeny Dymkin","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Very few",4
+"42","Strategy Council","Matt Barron","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Some",2
+"43","Working Team","Travis Grimes","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Few",3
+"44","Strategy Council","Greg Gibson","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Some",2
+"45","Strategy Council","Oliver Taudien","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Few",3
+"46","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Some",2
+"47","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Few",3
+"48","Working Team","Jeff Monroe","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Very few",4
+"49","Working Team","Evgeny Dymkin","North America","Conditions of Demand","Q4","Product Differentiation","Current","Somehewhat Commoditized",4
+"50","Strategy Council","Matt Barron","North America","Conditions of Demand","Q4","Product Differentiation","Current","Somehewhat Commoditized",4
+"51","Working Team","Travis Grimes","North America","Conditions of Demand","Q4","Product Differentiation","Current","Somewhat Branded",2
+"52","Strategy Council","Greg Gibson","North America","Conditions of Demand","Q4","Product Differentiation","Current","Somehewhat Commoditized",4
+"53","Strategy Council","Oliver Taudien","North America","Conditions of Demand","Q4","Product Differentiation","Current","Mixed",3
+"54","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q4","Product Differentiation","Current","Somehewhat Commoditized",4
+"55","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q4","Product Differentiation","Current","Commoditized",5
+"56","Working Team","Jeff Monroe","North America","Conditions of Demand","Q4","Product Differentiation","Current","Somehewhat Commoditized",4
+"57","Working Team","Evgeny Dymkin","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Somehewhat Commoditized",4
+"58","Strategy Council","Matt Barron","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Somehewhat Commoditized",4
+"59","Working Team","Travis Grimes","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Somewhat Branded",2
+"60","Strategy Council","Greg Gibson","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Somehewhat Commoditized",4
+"61","Strategy Council","Oliver Taudien","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Mixed",3
+"62","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Somehewhat Commoditized",4
+"63","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Commoditized",5
+"64","Working Team","Jeff Monroe","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Commoditized",5
+"65","Working Team","Evgeny Dymkin","North America","Conditions of Demand","Q5","Price Stabiity","Current","Neutral",3
+"66","Strategy Council","Matt Barron","North America","Conditions of Demand","Q5","Price Stabiity","Current","Somewhat Stable",2
+"67","Working Team","Travis Grimes","North America","Conditions of Demand","Q5","Price Stabiity","Current","Somewhat Stable",2
+"68","Strategy Council","Greg Gibson","North America","Conditions of Demand","Q5","Price Stabiity","Current","Highly Stable",1
+"69","Strategy Council","Oliver Taudien","North America","Conditions of Demand","Q5","Price Stabiity","Current","Somewhat Stable",2
+"70","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q5","Price Stabiity","Current","Neutral",3
+"71","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q5","Price Stabiity","Current","Somewhat Stable",2
+"72","Working Team","Jeff Monroe","North America","Conditions of Demand","Q5","Price Stabiity","Current","Somewhat Stable",2
+"73","Working Team","Evgeny Dymkin","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Somewhat Stable",2
+"74","Strategy Council","Matt Barron","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Somewhat Stable",2
+"75","Working Team","Travis Grimes","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Somewhat Stable",2
+"76","Strategy Council","Greg Gibson","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Somewhat Stable",2
+"77","Strategy Council","Oliver Taudien","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Somewhat Stable",2
+"78","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Somewhat Stable",2
+"79","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Somewhat Stable",2
+"80","Working Team","Jeff Monroe","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Neutral",3
+"81","Working Team","Evgeny Dymkin","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","Some",4
+"82","Strategy Council","Matt Barron","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","Some",4
+"83","Working Team","Travis Grimes","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","Some",4
+"84","Strategy Council","Greg Gibson","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","Few",3
+"85","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","Some",4
+"86","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","Some",4
+"87","Strategy Council","Kristine Vela","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","Some",4
+"88","Working Team","Jeff Monroe","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","Few",3
+"89","Working Team","Evgeny Dymkin","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","High",5
+"90","Strategy Council","Matt Barron","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","Some",4
+"91","Working Team","Travis Grimes","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","Some",4
+"92","Strategy Council","Greg Gibson","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","High",5
+"93","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","Some",4
+"94","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","Some",4
+"95","Strategy Council","Kristine Vela","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","Some",4
+"96","Working Team","Jeff Monroe","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","Some",4
+"97","Working Team","Evgeny Dymkin","North America","Exit Barriers","Q7","Excess Capacity","Current","Substantial",4
+"98","Strategy Council","Matt Barron","North America","Exit Barriers","Q7","Excess Capacity","Current","Some",3
+"99","Working Team","Travis Grimes","North America","Exit Barriers","Q7","Excess Capacity","Current","Some",3
+"100","Strategy Council","Greg Gibson","North America","Exit Barriers","Q7","Excess Capacity","Current","Some",3
+"101","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q7","Excess Capacity","Current","Some",3
+"102","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q7","Excess Capacity","Current","Some",3
+"103","Strategy Council","Kristine Vela","North America","Exit Barriers","Q7","Excess Capacity","Current","Some",3
+"104","Working Team","Jeff Monroe","North America","Exit Barriers","Q7","Excess Capacity","Current","Some",3
+"105","Working Team","Evgeny Dymkin","North America","Exit Barriers","Q7F","Excess Capacity","Future","Some",3
+"106","Strategy Council","Matt Barron","North America","Exit Barriers","Q7F","Excess Capacity","Future","Substantial",4
+"107","Working Team","Travis Grimes","North America","Exit Barriers","Q7F","Excess Capacity","Future","Some",3
+"108","Strategy Council","Greg Gibson","North America","Exit Barriers","Q7F","Excess Capacity","Future","Substantial",4
+"109","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q7F","Excess Capacity","Future","Some",3
+"110","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q7F","Excess Capacity","Future","Some",3
+"111","Strategy Council","Kristine Vela","North America","Exit Barriers","Q7F","Excess Capacity","Future","Some",3
+"112","Working Team","Jeff Monroe","North America","Exit Barriers","Q7F","Excess Capacity","Future","Substantial",4
+"113","Working Team","Evgeny Dymkin","North America","Exit Barriers","Q8","Asset Age","Current","Neutral",3
+"114","Strategy Council","Matt Barron","North America","Exit Barriers","Q8","Asset Age","Current","Mostly Old",1
+"115","Working Team","Travis Grimes","North America","Exit Barriers","Q8","Asset Age","Current","Few Old",2
+"116","Strategy Council","Greg Gibson","North America","Exit Barriers","Q8","Asset Age","Current","Mostly Old",1
+"117","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q8","Asset Age","Current","Few Old",2
+"118","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q8","Asset Age","Current","Neutral",3
+"119","Strategy Council","Kristine Vela","North America","Exit Barriers","Q8","Asset Age","Current","Mostly Old",1
+"120","Working Team","Jeff Monroe","North America","Exit Barriers","Q8","Asset Age","Current","Few Old",2
+"121","Working Team","Evgeny Dymkin","North America","Exit Barriers","Q8F","Asset Age","Future","Few Old",2
+"122","Strategy Council","Matt Barron","North America","Exit Barriers","Q8F","Asset Age","Future","Mostly Old",1
+"123","Working Team","Travis Grimes","North America","Exit Barriers","Q8F","Asset Age","Future","Few Old",2
+"124","Strategy Council","Greg Gibson","North America","Exit Barriers","Q8F","Asset Age","Future","Mostly Old",1
+"125","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q8F","Asset Age","Future","Few Old",2
+"126","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q8F","Asset Age","Future","Few New",4
+"127","Strategy Council","Kristine Vela","North America","Exit Barriers","Q8F","Asset Age","Future","Mostly Old",1
+"128","Working Team","Jeff Monroe","North America","Exit Barriers","Q8F","Asset Age","Future","Mostly Old",1
+"129","Working Team","Evgeny Dymkin","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Neutral",3
+"130","Strategy Council","Matt Barron","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Somewhat Easy",2
+"131","Working Team","Travis Grimes","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Difficult",5
+"132","Strategy Council","Greg Gibson","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Somewhat Difficult",4
+"133","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Difficult",5
+"134","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Somewhat Difficult",4
+"135","Strategy Council","Kristine Vela","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Neutral",3
+"136","Working Team","Jeff Monroe","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Somewhat Difficult",4
+"137","Working Team","Evgeny Dymkin","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Somewhat Difficult",4
+"138","Strategy Council","Matt Barron","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Somewhat Easy",2
+"139","Working Team","Travis Grimes","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Difficult",5
+"140","Strategy Council","Greg Gibson","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Difficult",5
+"141","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Difficult",5
+"142","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Somewhat Difficult",4
+"143","Strategy Council","Kristine Vela","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Neutral",3
+"144","Working Team","Jeff Monroe","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Difficult",5
+"145","Working Team","Evgeny Dymkin","North America","Exit Barriers","Q10","Shared Facilities","Current","Some",3
+"146","Strategy Council","Matt Barron","North America","Exit Barriers","Q10","Shared Facilities","Current","Some",3
+"147","Working Team","Travis Grimes","North America","Exit Barriers","Q10","Shared Facilities","Current","Few",2
+"148","Strategy Council","Greg Gibson","North America","Exit Barriers","Q10","Shared Facilities","Current","Mostly Standalone",1
+"149","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q10","Shared Facilities","Current","Mostly Shared",5
+"150","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q10","Shared Facilities","Current","Some",3
+"151","Strategy Council","Kristine Vela","North America","Exit Barriers","Q10","Shared Facilities","Current","Mostly Standalone",1
+"152","Working Team","Jeff Monroe","North America","Exit Barriers","Q10","Shared Facilities","Current","Few",2
+"153","Working Team","Evgeny Dymkin","North America","Exit Barriers","Q10F","Shared Facilities","Future","Substantial",4
+"154","Strategy Council","Matt Barron","North America","Exit Barriers","Q10F","Shared Facilities","Future","Some",3
+"155","Working Team","Travis Grimes","North America","Exit Barriers","Q10F","Shared Facilities","Future","Few",2
+"156","Strategy Council","Greg Gibson","North America","Exit Barriers","Q10F","Shared Facilities","Future","Mostly Standalone",1
+"157","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q10F","Shared Facilities","Future","Mostly Shared",5
+"158","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q10F","Shared Facilities","Future","Mostly Standalone",1
+"159","Strategy Council","Kristine Vela","North America","Exit Barriers","Q10F","Shared Facilities","Future","Mostly Standalone",1
+"160","Working Team","Jeff Monroe","North America","Exit Barriers","Q10F","Shared Facilities","Future","Some",3
+"161","Working Team","Evgeny Dymkin","North America","Exit Barriers","Q11","Vertical Integration","Current","Some",3
+"162","Strategy Council","Matt Barron","North America","Exit Barriers","Q11","Vertical Integration","Current","Little",2
+"163","Working Team","Travis Grimes","North America","Exit Barriers","Q11","Vertical Integration","Current","Substantial",4
+"164","Strategy Council","Greg Gibson","North America","Exit Barriers","Q11","Vertical Integration","Current","Very Little",1
+"165","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q11","Vertical Integration","Current","Substantial",4
+"166","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q11","Vertical Integration","Current","Some",3
+"167","Strategy Council","Kristine Vela","North America","Exit Barriers","Q11","Vertical Integration","Current","Very Little",1
+"168","Working Team","Jeff Monroe","North America","Exit Barriers","Q11","Vertical Integration","Current","Very Little",1
+"169","Working Team","Evgeny Dymkin","North America","Exit Barriers","Q11F","Vertical Integration","Future","Substantial",4
+"170","Strategy Council","Matt Barron","North America","Exit Barriers","Q11F","Vertical Integration","Future","Little",2
+"171","Working Team","Travis Grimes","North America","Exit Barriers","Q11F","Vertical Integration","Future","Substantial",4
+"172","Strategy Council","Greg Gibson","North America","Exit Barriers","Q11F","Vertical Integration","Future","Very Little",1
+"173","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q11F","Vertical Integration","Future","Substantial",4
+"174","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q11F","Vertical Integration","Future","Substantial",4
+"175","Strategy Council","Kristine Vela","North America","Exit Barriers","Q11F","Vertical Integration","Future","Very Little",1
+"176","Working Team","Jeff Monroe","North America","Exit Barriers","Q11F","Vertical Integration","Future","Little",2
+"177","Working Team","Evgeny Dymkin","North America","Exit Barriers","Q12","Single Product Competitors","Current","Few",3
+"178","Strategy Council","Matt Barron","North America","Exit Barriers","Q12","Single Product Competitors","Current","Few",3
+"179","Working Team","Travis Grimes","North America","Exit Barriers","Q12","Single Product Competitors","Current","Very Few",2
+"180","Strategy Council","Greg Gibson","North America","Exit Barriers","Q12","Single Product Competitors","Current","Few",3
+"181","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q12","Single Product Competitors","Current","Some",4
+"182","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q12","Single Product Competitors","Current","Few",3
+"183","Strategy Council","Kristine Vela","North America","Exit Barriers","Q12","Single Product Competitors","Current","Very Few",2
+"184","Working Team","Jeff Monroe","North America","Exit Barriers","Q12","Single Product Competitors","Current","Few",3
+"185","Working Team","Evgeny Dymkin","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Very Few",2
+"186","Strategy Council","Matt Barron","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Few",3
+"187","Working Team","Travis Grimes","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Very Few",2
+"188","Strategy Council","Greg Gibson","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Few",3
+"189","Strategy Council","Oliver Taudien","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Few",3
+"190","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Few",3
+"191","Strategy Council","Kristine Vela","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Few",3
+"192","Working Team","Jeff Monroe","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Some",4
+"193","Working Team","Evgeny Dymkin","North America","Rivalry Determinants","Q13","Customer Power","Current","Neutral",3
+"194","Strategy Council","Matt Barron","North America","Rivalry Determinants","Q13","Customer Power","Current","Neutral",3
+"195","Working Team","Travis Grimes","North America","Rivalry Determinants","Q13","Customer Power","Current","Neutral",3
+"196","Strategy Council","Greg Gibson","North America","Rivalry Determinants","Q13","Customer Power","Current","Weak",2
+"197","Strategy Council","Oliver Taudien","North America","Rivalry Determinants","Q13","Customer Power","Current","Strong",4
+"198","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q13","Customer Power","Current","Strong",4
+"199","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q13","Customer Power","Current","Neutral",3
+"200","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q13","Customer Power","Current","Strong",4
+"201","Working Team","Evgeny Dymkin","North America","Rivalry Determinants","Q13F","Customer Power","Future","Neutral",3
+"202","Strategy Council","Matt Barron","North America","Rivalry Determinants","Q13F","Customer Power","Future","Neutral",3
+"203","Working Team","Travis Grimes","North America","Rivalry Determinants","Q13F","Customer Power","Future","Neutral",3
+"204","Strategy Council","Greg Gibson","North America","Rivalry Determinants","Q13F","Customer Power","Future","Strong",4
+"205","Strategy Council","Oliver Taudien","North America","Rivalry Determinants","Q13F","Customer Power","Future","Strong",4
+"206","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q13F","Customer Power","Future","Neutral",3
+"207","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q13F","Customer Power","Future","Strong",4
+"208","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q13F","Customer Power","Future","Very Strong",5
+"209","Working Team","Evgeny Dymkin","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Very Minimal",5
+"210","Strategy Council","Matt Barron","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Minimal",4
+"211","Working Team","Travis Grimes","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","High",2
+"212","Strategy Council","Greg Gibson","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Few",3
+"213","Strategy Council","Oliver Taudien","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Few",3
+"214","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Few",3
+"215","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Few",3
+"216","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Minimal",4
+"217","Working Team","Evgeny Dymkin","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","Very Minimal",5
+"218","Strategy Council","Matt Barron","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","Minimal",4
+"219","Working Team","Travis Grimes","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","High",2
+"220","Strategy Council","Greg Gibson","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","Few",3
+"221","Strategy Council","Oliver Taudien","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","Few",3
+"222","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","High",2
+"223","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","Few",3
+"224","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","Very Minimal",5
+"225","Working Team","Evgeny Dymkin","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Few",3
+"226","Strategy Council","Matt Barron","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Some",2
+"227","Working Team","Travis Grimes","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Some",2
+"228","Strategy Council","Greg Gibson","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Significant",1
+"229","Strategy Council","Oliver Taudien","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Few",3
+"230","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Some",2
+"231","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Significant",1
+"232","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Some",2
+"233","Working Team","Evgeny Dymkin","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Few",3
+"234","Strategy Council","Matt Barron","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Some",2
+"235","Working Team","Travis Grimes","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Some",2
+"236","Strategy Council","Greg Gibson","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Significant",1
+"237","Strategy Council","Oliver Taudien","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Few",3
+"238","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Some",2
+"239","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Significant",1
+"240","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Significant",1
+"241","Working Team","Evgeny Dymkin","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Concentrated",4
+"242","Strategy Council","Matt Barron","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Concentrated",4
+"243","Working Team","Travis Grimes","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Concentrated",4
+"244","Strategy Council","Greg Gibson","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Concentrated",4
+"245","Strategy Council","Oliver Taudien","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Concentrated",4
+"246","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Balanced",3
+"247","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Highly Concentrated",5
+"248","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Concentrated",4
+"249","Working Team","Evgeny Dymkin","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Concentrated",4
+"250","Strategy Council","Matt Barron","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Concentrated",4
+"251","Working Team","Travis Grimes","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Concentrated",4
+"252","Strategy Council","Greg Gibson","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Highly Concentrated",5
+"253","Strategy Council","Oliver Taudien","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Concentrated",4
+"254","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Concentrated",4
+"255","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Highly Concentrated",5
+"256","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Highly Concentrated",5
+"257","Working Team","Evgeny Dymkin","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Moderate",3
+"258","Strategy Council","Matt Barron","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Moderate",3
+"259","Working Team","Travis Grimes","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Moderate",3
+"260","Strategy Council","Greg Gibson","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Moderate",3
+"261","Strategy Council","Oliver Taudien","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Moderate",3
+"262","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Fast",4
+"263","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Moderate",3
+"264","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Moderate",3
+"265","Working Team","Evgeny Dymkin","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Slow",2
+"266","Strategy Council","Matt Barron","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Moderate",3
+"267","Working Team","Travis Grimes","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Slow",2
+"268","Strategy Council","Greg Gibson","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Moderate",3
+"269","Strategy Council","Oliver Taudien","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Moderate",3
+"270","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Moderate",3
+"271","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Moderate",3
+"272","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Moderate",3
+"273","Working Team","Evgeny Dymkin","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Very Certain",1
+"274","Strategy Council","Matt Barron","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Somewhat Certain",2
+"275","Working Team","Travis Grimes","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Certain",3
+"276","Strategy Council","Greg Gibson","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Certain",3
+"277","Strategy Council","Oliver Taudien","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Very Certain",1
+"278","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Certain",3
+"279","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Certain",3
+"280","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Certain",3
+"281","Working Team","Evgeny Dymkin","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Very Certain",1
+"282","Strategy Council","Matt Barron","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Somewhat Certain",2
+"283","Working Team","Travis Grimes","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Certain",3
+"284","Strategy Council","Greg Gibson","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Somewhat Uncertain",4
+"285","Strategy Council","Oliver Taudien","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Somewhat Certain",2
+"286","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Somewhat Uncertain",4
+"287","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Certain",3
+"288","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Somewhat Uncertain",4
+"289","Working Team","Evgeny Dymkin","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Few",3
+"290","Strategy Council","Matt Barron","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Some",2
+"291","Working Team","Travis Grimes","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Few",3
+"292","Strategy Council","Greg Gibson","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Few",3
+"293","Strategy Council","Oliver Taudien","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Some",2
+"294","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Few",3
+"295","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Few",3
+"296","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Few",3
+"297","Working Team","Evgeny Dymkin","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Very few",4
+"298","Strategy Council","Matt Barron","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Some",2
+"299","Working Team","Travis Grimes","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Few",3
+"300","Strategy Council","Greg Gibson","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Few",3
+"301","Strategy Council","Oliver Taudien","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Some",2
+"302","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Few",3
+"303","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Few",3
+"304","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Very few",4
+"305","Working Team","Evgeny Dymkin","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Somehewhat Commoditized",4
+"306","Strategy Council","Matt Barron","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Somehewhat Commoditized",4
+"307","Working Team","Travis Grimes","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Somewhat Branded",2
+"308","Strategy Council","Greg Gibson","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Mixed",3
+"309","Strategy Council","Oliver Taudien","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Somewhat Branded",2
+"310","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Somehewhat Commoditized",4
+"311","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Commoditized",5
+"312","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Mixed",3
+"313","Working Team","Evgeny Dymkin","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Somehewhat Commoditized",4
+"314","Strategy Council","Matt Barron","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Somehewhat Commoditized",4
+"315","Working Team","Travis Grimes","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Somewhat Branded",2
+"316","Strategy Council","Greg Gibson","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Mixed",3
+"317","Strategy Council","Oliver Taudien","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Somewhat Branded",2
+"318","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Somehewhat Commoditized",4
+"319","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Commoditized",5
+"320","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Somehewhat Commoditized",4
+"321","Working Team","Evgeny Dymkin","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Highly Unstable",5
+"322","Strategy Council","Matt Barron","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Somewhat Stable",2
+"323","Working Team","Travis Grimes","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Neutral",3
+"324","Strategy Council","Greg Gibson","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Neutral",3
+"325","Strategy Council","Oliver Taudien","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Neutral",3
+"326","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Somehewhat Unstable",4
+"327","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Somewhat Stable",2
+"328","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Neutral",3
+"329","Working Team","Evgeny Dymkin","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Neutral",3
+"330","Strategy Council","Matt Barron","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Somewhat Stable",2
+"331","Working Team","Travis Grimes","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Somewhat Stable",2
+"332","Strategy Council","Greg Gibson","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Neutral",3
+"333","Strategy Council","Oliver Taudien","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Somewhat Stable",2
+"334","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Neutral",3
+"335","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Somewhat Stable",2
+"336","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Somehewhat Unstable",4
+"337","Working Team","Evgeny Dymkin","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Some",4
+"338","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Some",4
+"339","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Some",4
+"340","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Very Few",2
+"341","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Some",4
+"342","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Some",4
+"343","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Few",3
+"344","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Some",4
+"345","Working Team","Evgeny Dymkin","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","High",5
+"346","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","Some",4
+"347","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","Some",4
+"348","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","High",5
+"349","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","Few",3
+"350","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","Some",4
+"351","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","Few",3
+"352","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","High",5
+"353","Working Team","Evgeny Dymkin","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Substantial",4
+"354","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Some",3
+"355","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Some",3
+"356","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Some",3
+"357","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Some",3
+"358","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Substantial",4
+"359","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Some",3
+"360","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Substantial",4
+"361","Working Team","Evgeny Dymkin","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Some",3
+"362","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Substantial",4
+"363","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Some",3
+"364","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Substantial",4
+"365","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Little",2
+"366","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Little",2
+"367","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Some",3
+"368","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Very Substantial",5
+"369","Working Team","Evgeny Dymkin","Western Europe","Exit Barriers","Q24","Asset Age","Current","Neutral",3
+"370","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q24","Asset Age","Current","Mostly Old",1
+"371","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q24","Asset Age","Current","Few Old",2
+"372","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q24","Asset Age","Current","Mostly Old",1
+"373","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q24","Asset Age","Current","Few Old",2
+"374","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q24","Asset Age","Current","Neutral",3
+"375","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q24","Asset Age","Current","Mostly Old",1
+"376","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q24","Asset Age","Current","Few Old",2
+"377","Working Team","Evgeny Dymkin","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Few Old",2
+"378","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Mostly Old",1
+"379","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Few Old",2
+"380","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Mostly Old",1
+"381","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Few Old",2
+"382","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Few Old",2
+"383","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Mostly Old",1
+"384","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Mostly Old",1
+"385","Working Team","Evgeny Dymkin","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Neutral",3
+"386","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Somewhat Easy",2
+"387","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Difficult",5
+"388","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Somewhat Difficult",4
+"389","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Somewhat Difficult",4
+"390","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Difficult",5
+"391","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Neutral",3
+"392","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Somewhat Difficult",4
+"393","Working Team","Evgeny Dymkin","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Somewhat Difficult",4
+"394","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Somewhat Easy",2
+"395","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Difficult",5
+"396","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Difficult",5
+"397","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Somewhat Difficult",4
+"398","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Difficult",5
+"399","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Neutral",3
+"400","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Difficult",5
+"401","Working Team","Evgeny Dymkin","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Some",3
+"402","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Some",3
+"403","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Substantial",4
+"404","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Mostly Standalone",1
+"405","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Substantial",4
+"406","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Few",2
+"407","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Mostly Standalone",1
+"408","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Some",3
+"409","Working Team","Evgeny Dymkin","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Substantial",4
+"410","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Some",3
+"411","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Substantial",4
+"412","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Mostly Standalone",1
+"413","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Substantial",4
+"414","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Few",2
+"415","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Mostly Standalone",1
+"416","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Some",3
+"417","Working Team","Evgeny Dymkin","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Some",3
+"418","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Little",2
+"419","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Some",3
+"420","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Very Little",1
+"421","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Some",3
+"422","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Some",3
+"423","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Very Little",1
+"424","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Little",2
+"425","Working Team","Evgeny Dymkin","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Substantial",4
+"426","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Little",2
+"427","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Some",3
+"428","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Very Little",1
+"429","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Some",3
+"430","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Substantial",4
+"431","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Very Little",1
+"432","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Very Little",1
+"433","Working Team","Evgeny Dymkin","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Few",3
+"434","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Few",3
+"435","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Very Few",2
+"436","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Few",3
+"437","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Few",3
+"438","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Few",3
+"439","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Few",3
+"440","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Few",3
+"441","Working Team","Evgeny Dymkin","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Very Few",2
+"442","Strategy Council","Matt Barron","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Few",3
+"443","Working Team","Travis Grimes","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Very Few",2
+"444","Strategy Council","Greg Gibson","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Few",3
+"445","Strategy Council","Oliver Taudien","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Few",3
+"446","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Few",3
+"447","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Few",3
+"448","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Very Few",2
+"449","Working Team","Evgeny Dymkin","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Neutral",3
+"450","Strategy Council","Matt Barron","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Neutral",3
+"451","Working Team","Travis Grimes","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Neutral",3
+"452","Strategy Council","Greg Gibson","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Neutral",3
+"453","Strategy Council","Oliver Taudien","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Neutral",3
+"454","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Strong",4
+"455","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Neutral",3
+"456","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Neutral",3
+"457","Working Team","Evgeny Dymkin","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Neutral",3
+"458","Strategy Council","Matt Barron","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Neutral",3
+"459","Working Team","Travis Grimes","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Neutral",3
+"460","Strategy Council","Greg Gibson","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Strong",4
+"461","Strategy Council","Oliver Taudien","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Neutral",3
+"462","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Neutral",3
+"463","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Neutral",3
+"464","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Strong",4
+"465","Working Team","Evgeny Dymkin","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Very Minimal",5
+"466","Strategy Council","Matt Barron","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Few",3
+"467","Working Team","Travis Grimes","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","High",2
+"468","Strategy Council","Greg Gibson","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Few",3
+"469","Strategy Council","Oliver Taudien","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Few",3
+"470","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Minimal",4
+"471","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Few",3
+"472","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Few",3
+"473","Working Team","Evgeny Dymkin","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Very Minimal",5
+"474","Strategy Council","Matt Barron","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Few",3
+"475","Working Team","Travis Grimes","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","High",2
+"476","Strategy Council","Greg Gibson","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Few",3
+"477","Strategy Council","Oliver Taudien","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Few",3
+"478","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Few",3
+"479","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Few",3
+"480","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Minimal",4
+"481","Working Team","Evgeny Dymkin",NA,NA,NA,NA,NA,"Very Few",NA
+"482","Strategy Council","Matt Barron","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Some",2
+"483","Working Team","Travis Grimes","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Some",2
+"484","Strategy Council","Greg Gibson","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Some",2
+"485","Strategy Council","Oliver Taudien","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Few",3
+"486","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Significant",1
+"487","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Significant",1
+"488","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Some",2
+"489","Working Team","Evgeny Dymkin","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Few",3
+"490","Strategy Council","Matt Barron","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Some",2
+"491","Working Team","Travis Grimes","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Some",2
+"492","Strategy Council","Greg Gibson","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Some",2
+"493","Strategy Council","Oliver Taudien","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Few",3
+"494","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Significant",1
+"495","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Significant",1
+"496","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Significant",1
+"497","Working Team","Evgeny Dymkin","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Balanced",3
+"498","Strategy Council","Matt Barron","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Concentrated",4
+"499","Working Team","Travis Grimes","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Balanced",3
+"500","Strategy Council","Greg Gibson","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Fragmented",2
+"501","Strategy Council","Oliver Taudien","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Fragmented",2
+"502","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Balanced",3
+"503","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Fragmented",2
+"504","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Concentrated",4
+"505","Working Team","Evgeny Dymkin","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Concentrated",4
+"506","Strategy Council","Matt Barron","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Concentrated",4
+"507","Working Team","Travis Grimes","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Balanced",3
+"508","Strategy Council","Greg Gibson","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Concentrated",4
+"509","Strategy Council","Oliver Taudien","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Concentrated",4
+"510","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Concentrated",4
+"511","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Balanced",3
+"512","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Highly Concentrated",5
+"513","Working Team","Evgeny Dymkin","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Very Slow",1
+"514","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Very Slow",1
+"515","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Slow",2
+"516","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Very Slow",1
+"517","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Moderate",3
+"518","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Slow",2
+"519","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Very Slow",1
+"520","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Moderate",3
+"521","Working Team","Evgeny Dymkin","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Very Slow",1
+"522","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Very Slow",1
+"523","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Slow",2
+"524","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Very Slow",1
+"525","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Fast",4
+"526","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Slow",2
+"527","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Very Slow",1
+"528","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Moderate",3
+"529","Working Team","Evgeny Dymkin","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Somewhat Certain",2
+"530","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Very Certain",1
+"531","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Certain",3
+"532","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Certain",3
+"533","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Somewhat Certain",2
+"534","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Somewhat Uncertain",4
+"535","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Very Certain",1
+"536","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Certain",3
+"537","Working Team","Evgeny Dymkin","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Very Certain",1
+"538","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Very Certain",1
+"539","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Certain",3
+"540","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Certain",3
+"541","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Certain",3
+"542","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Somewhat Uncertain",4
+"543","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Very Certain",1
+"544","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Certain",3
+"545","Working Team","Evgeny Dymkin","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Some",2
+"546","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Some",2
+"547","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Few",3
+"548","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Few",3
+"549","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Some",2
+"550","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Some",2
+"551","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Some",2
+"552","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Few",3
+"553","Working Team","Evgeny Dymkin","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Few",3
+"554","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Some",2
+"555","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Few",3
+"556","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Few",3
+"557","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Some",2
+"558","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Some",2
+"559","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Some",2
+"560","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Some",2
+"561","Working Team","Evgeny Dymkin","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Commoditized",5
+"562","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Somehewhat Commoditized",4
+"563","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Somewhat Branded",2
+"564","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Mixed",3
+"565","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Somewhat Branded",2
+"566","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Somewhat Branded",2
+"567","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Commoditized",5
+"568","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Somehewhat Commoditized",4
+"569","Working Team","Evgeny Dymkin","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Commoditized",5
+"570","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Somehewhat Commoditized",4
+"571","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Somewhat Branded",2
+"572","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Mixed",3
+"573","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Somewhat Branded",2
+"574","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Somewhat Branded",2
+"575","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Commoditized",5
+"576","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Commoditized",5
+"577","Working Team","Evgeny Dymkin","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Somewhat Stable",2
+"578","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Somewhat Stable",2
+"579","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Neutral",3
+"580","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Highly Stable",1
+"581","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Somewhat Stable",2
+"582","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Neutral",3
+"583","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Somewhat Stable",2
+"584","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Neutral",3
+"585","Working Team","Evgeny Dymkin","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Somewhat Stable",2
+"586","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Somewhat Stable",2
+"587","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Neutral",3
+"588","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Highly Stable",1
+"589","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Somewhat Stable",2
+"590","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Neutral",3
+"591","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Somewhat Stable",2
+"592","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Somehewhat Unstable",4
+"593","Working Team","Evgeny Dymkin","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Very Few",2
+"594","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Some",4
+"595","Working Team","Travis Grimes","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Some",4
+"596","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Very Few",2
+"597","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Few",3
+"598","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Some",4
+"599","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Low",1
+"600","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Some",4
+"601","Working Team","Evgeny Dymkin","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","Few",3
+"602","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","Some",4
+"603","Working Team","Travis Grimes","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","Some",4
+"604","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","Few",3
+"605","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","Few",3
+"606","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","High",5
+"607","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","Low",1
+"608","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","High",5
+"609","Working Team","Evgeny Dymkin","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Very Little",1
+"610","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Very Little",1
+"611","Working Team","Travis Grimes","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Some",3
+"612","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Some",3
+"613","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Some",3
+"614","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Little",2
+"615","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Very Little",1
+"616","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Some",3
+"617","Working Team","Evgeny Dymkin","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Little",2
+"618","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Very Little",1
+"619","Working Team","Travis Grimes","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Some",3
+"620","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Some",3
+"621","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Some",3
+"622","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Little",2
+"623","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Very Little",1
+"624","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Substantial",4
+"625","Working Team","Evgeny Dymkin","Latin America","Exit Barriers","Q40","Asset Age","Current","Neutral",3
+"626","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q40","Asset Age","Current","Mostly Old",1
+"627","Working Team","Travis Grimes","Latin America","Exit Barriers","Q40","Asset Age","Current","Few Old",2
+"628","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q40","Asset Age","Current","Few New",4
+"629","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q40","Asset Age","Current","Few Old",2
+"630","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q40","Asset Age","Current","Few Old",2
+"631","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q40","Asset Age","Current","Few New",4
+"632","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q40","Asset Age","Current","Neutral",3
+"633","Working Team","Evgeny Dymkin","Latin America","Exit Barriers","Q40F","Asset Age","Future","Neutral",3
+"634","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q40F","Asset Age","Future","Mostly Old",1
+"635","Working Team","Travis Grimes","Latin America","Exit Barriers","Q40F","Asset Age","Future","Few Old",2
+"636","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q40F","Asset Age","Future","Neutral",3
+"637","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q40F","Asset Age","Future","Few Old",2
+"638","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q40F","Asset Age","Future","Few Old",2
+"639","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q40F","Asset Age","Future","Few New",4
+"640","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q40F","Asset Age","Future","Few Old",2
+"641","Working Team","Evgeny Dymkin","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Somewhat Easy",2
+"642","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Somewhat Easy",2
+"643","Working Team","Travis Grimes","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Difficult",5
+"644","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Neutral",3
+"645","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Difficult",5
+"646","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Difficult",5
+"647","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Somewhat Easy",2
+"648","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Somewhat Easy",2
+"649","Working Team","Evgeny Dymkin","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Neutral",3
+"650","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Somewhat Easy",2
+"651","Working Team","Travis Grimes","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Difficult",5
+"652","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Somewhat Difficult",4
+"653","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Somewhat Difficult",4
+"654","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Somewhat Difficult",4
+"655","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Somewhat Easy",2
+"656","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Neutral",3
+"657","Working Team","Evgeny Dymkin","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Substantial",4
+"658","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Some",3
+"659","Working Team","Travis Grimes","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Some",3
+"660","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Few",2
+"661","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Some",3
+"662","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Few",2
+"663","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Mostly Standalone",1
+"664","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Some",3
+"665","Working Team","Evgeny Dymkin","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Substantial",4
+"666","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Some",3
+"667","Working Team","Travis Grimes","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Some",3
+"668","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Few",2
+"669","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Some",3
+"670","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Few",2
+"671","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Mostly Standalone",1
+"672","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Some",3
+"673","Working Team","Evgeny Dymkin","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Substantial",4
+"674","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Some",3
+"675","Working Team","Travis Grimes","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Substantial",4
+"676","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Little",2
+"677","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Substantial",4
+"678","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Very Substantial",5
+"679","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Very Little",1
+"680","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Little",2
+"681","Working Team","Evgeny Dymkin","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Substantial",4
+"682","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Some",3
+"683","Working Team","Travis Grimes","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Substantial",4
+"684","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Little",2
+"685","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Substantial",4
+"686","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Very Substantial",5
+"687","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Very Little",1
+"688","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Little",2
+"689","Working Team","Evgeny Dymkin","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Very Few",2
+"690","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Few",3
+"691","Working Team","Travis Grimes","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Very Few",2
+"692","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Few",3
+"693","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Few",3
+"694","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Some",4
+"695","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Few",3
+"696","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Very Few",2
+"697","Working Team","Evgeny Dymkin","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Very Few",2
+"698","Strategy Council","Matt Barron","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Few",3
+"699","Working Team","Travis Grimes","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Very Few",2
+"700","Strategy Council","Greg Gibson","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Few",3
+"701","Strategy Council","Oliver Taudien","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Few",3
+"702","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Some",4
+"703","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Few",3
+"704","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Very Few",2
+"705","Working Team","Evgeny Dymkin","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Weak",2
+"706","Strategy Council","Matt Barron","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Neutral",3
+"707","Working Team","Travis Grimes","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Neutral",3
+"708","Strategy Council","Greg Gibson","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Weak",2
+"709","Strategy Council","Oliver Taudien","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Neutral",3
+"710","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Weak",2
+"711","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Very Weak",1
+"712","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Strong",4
+"713","Working Team","Evgeny Dymkin","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Weak",2
+"714","Strategy Council","Matt Barron","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Neutral",3
+"715","Working Team","Travis Grimes","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Neutral",3
+"716","Strategy Council","Greg Gibson","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Weak",2
+"717","Strategy Council","Oliver Taudien","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Neutral",3
+"718","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Weak",2
+"719","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Very Weak",1
+"720","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Very Strong",5
+"721","Working Team","Evgeny Dymkin","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","Very Minimal",5
+"722","Strategy Council","Matt Barron","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","Few",3
+"723","Working Team","Travis Grimes","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","High",2
+"724","Strategy Council","Greg Gibson","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","High",2
+"725","Strategy Council","Oliver Taudien","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","Few",3
+"726","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","High",2
+"727","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","Few",3
+"728","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","Minimal",4
+"729","Working Team","Evgeny Dymkin","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","Very Minimal",5
+"730","Strategy Council","Matt Barron","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","Few",3
+"731","Working Team","Travis Grimes","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","High",2
+"732","Strategy Council","Greg Gibson","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","High",2
+"733","Strategy Council","Oliver Taudien","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","Few",3
+"734","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","High",2
+"735","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","Few",3
+"736","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","Very Minimal",5
+"737","Working Team","Evgeny Dymkin","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Some",2
+"738","Strategy Council","Matt Barron","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Some",2
+"739","Working Team","Travis Grimes","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Some",2
+"740","Strategy Council","Greg Gibson","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Significant",1
+"741","Strategy Council","Oliver Taudien","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Few",3
+"742","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Some",2
+"743","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Significant",1
+"744","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Some",2
+"745","Working Team","Evgeny Dymkin","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Some",2
+"746","Strategy Council","Matt Barron","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Some",2
+"747","Working Team","Travis Grimes","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Some",2
+"748","Strategy Council","Greg Gibson","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Significant",1
+"749","Strategy Council","Oliver Taudien","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Few",3
+"750","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Significant",1
+"751","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Significant",1
+"752","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Significant",1
+"753","Working Team","Evgeny Dymkin","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Highly Concentrated",5
+"754","Strategy Council","Matt Barron","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Balanced",3
+"755","Working Team","Travis Grimes","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Concentrated",4
+"756","Strategy Council","Greg Gibson","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Highly Concentrated",5
+"757","Strategy Council","Oliver Taudien","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Concentrated",4
+"758","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Concentrated",4
+"759","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Highly Concentrated",5
+"760","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Highly Concentrated",5
+"761","Working Team","Evgeny Dymkin","Latin America","Rivalry Determinants","Q48F","Number of Competitors","Future","Highly Concentrated",5
+"762","Strategy Council","Matt Barron","Latin America","Rivalry Determinants","Q48F","Number of Competitors","Future","Balanced",3
+"763","Working Team","Travis Grimes","Latin America","Rivalry Determinants","Q48F","Number of Competitors","Future","Concentrated",4
+"764","Strategy Council","Greg Gibson","Latin America","Rivalry Determinants","Q48F","Number of Competitors","Future","Highly Concentrated",5
+"765","Strategy Council","Oliver Taudien","Latin America","Rivalry Determinants","Q48F","Number of Competitors","Future","Concentrated",4
+"766","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q48F","Number of Competitors","Future","Concentrated",4
+"767","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q48F","Number of Competitors","Future","Highly Concentrated",5
+"768","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q48F","Number of Competitors","Future","Highly Concentrated",5
