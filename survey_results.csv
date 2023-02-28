@@ -447,19 +447,19 @@
 "446","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Concentrated",4
 "447","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Balanced",3
 "448","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Highly Concentrated",5
-"449","Strategy Council","Matt Barron",NA,NA,NA,NA,NA,"Very Slow",NA
+"449","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Very Slow",1
 "450","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Slow",2
-"451","Strategy Council","Greg Gibson",NA,NA,NA,NA,NA,"Very Slow",NA
+"451","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Very Slow",1
 "452","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Moderate",3
 "453","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Slow",2
-"454","Strategy Council","Kristine Vela",NA,NA,NA,NA,NA,"Very Slow",NA
+"454","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Very Slow",1
 "455","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Moderate",3
-"456","Strategy Council","Matt Barron",NA,NA,NA,NA,NA,"Very Slow",NA
+"456","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Very Slow",1
 "457","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Slow",2
-"458","Strategy Council","Greg Gibson",NA,NA,NA,NA,NA,"Very Slow",NA
+"458","Strategy Council","Greg Gibson","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Very Slow",1
 "459","Strategy Council","Oliver Taudien","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Fast",4
 "460","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Slow",2
-"461","Strategy Council","Kristine Vela",NA,NA,NA,NA,NA,"Very Slow",NA
+"461","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Very Slow",1
 "462","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Moderate",3
 "463","Strategy Council","Matt Barron","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Very Certain",1
 "464","Working Team","Travis Grimes","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Certain",3
