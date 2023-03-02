@@ -1,5 +1,5 @@
 "","Cohort","Respondent","Region","Structural.Factor","Question_Ref","Question","Period","Value","Value_No"
-"1",NA,"Steve Oswalt","North America","Conditions of Demand","Q1","Speed of Decline","Current","Moderate",3
+"1","Strategy Council","Steve Oswalt","North America","Conditions of Demand","Q1","Speed of Decline","Current","Moderate",3
 "2","Working Team","Thiago Matos","North America","Conditions of Demand","Q1","Speed of Decline","Current","Moderate",3
 "3","Working Team","Evgeny Zaytsev","North America","Conditions of Demand","Q1","Speed of Decline","Current","Moderate",3
 "4","Working Team","Hilary Jones","North America","Conditions of Demand","Q1","Speed of Decline","Current","Moderate",3
@@ -11,7 +11,7 @@
 "10","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q1","Speed of Decline","Current","Moderate",3
 "11","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q1","Speed of Decline","Current","Moderate",3
 "12","Working Team","Jeff Monroe","North America","Conditions of Demand","Q1","Speed of Decline","Current","Moderate",3
-"13",NA,"Steve Oswalt","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Slow",2
+"13","Strategy Council","Steve Oswalt","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Slow",2
 "14","Working Team","Thiago Matos","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Very Fast",5
 "15","Working Team","Evgeny Zaytsev","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Slow",2
 "16","Working Team","Hilary Jones","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Slow",2
@@ -23,7 +23,7 @@
 "22","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Moderate",3
 "23","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Slow",2
 "24","Working Team","Jeff Monroe","North America","Conditions of Demand","Q1F","Speed of Decline","Future","Slow",2
-"25",NA,"Steve Oswalt","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Very Certain",1
+"25","Strategy Council","Steve Oswalt","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Very Certain",1
 "26","Working Team","Thiago Matos","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Somewhat Certain",2
 "27","Working Team","Evgeny Zaytsev","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Very Certain",1
 "28","Working Team","Hilary Jones","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Very Certain",1
@@ -35,7 +35,7 @@
 "34","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Certain",3
 "35","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Certain",3
 "36","Working Team","Jeff Monroe","North America","Conditions of Demand","Q2","Certainty of Decline","Current","Certain",3
-"37",NA,"Steve Oswalt","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Somewhat Certain",2
+"37","Strategy Council","Steve Oswalt","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Somewhat Certain",2
 "38","Working Team","Thiago Matos","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Very Certain",1
 "39","Working Team","Evgeny Zaytsev","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Very Certain",1
 "40","Working Team","Hilary Jones","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Somewhat Uncertain",4
@@ -47,7 +47,7 @@
 "46","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Certain",3
 "47","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Certain",3
 "48","Working Team","Jeff Monroe","North America","Conditions of Demand","Q2F","Certainty of Decline","Future","Somewhat Uncertain",4
-"49",NA,"Steve Oswalt","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Few",3
+"49","Strategy Council","Steve Oswalt","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Few",3
 "50","Working Team","Thiago Matos","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Some",2
 "51","Working Team","Evgeny Zaytsev","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Very few",4
 "52","Working Team","Hilary Jones","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Few",3
@@ -59,7 +59,7 @@
 "58","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Some",2
 "59","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Few",3
 "60","Working Team","Jeff Monroe","North America","Conditions of Demand","Q3","Pockets of Enduring Demand","Current","Few",3
-"61",NA,"Steve Oswalt","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Few",3
+"61","Strategy Council","Steve Oswalt","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Few",3
 "62","Working Team","Thiago Matos","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Some",2
 "63","Working Team","Evgeny Zaytsev","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Very few",4
 "64","Working Team","Hilary Jones","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Few",3
@@ -71,7 +71,7 @@
 "70","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Some",2
 "71","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Few",3
 "72","Working Team","Jeff Monroe","North America","Conditions of Demand","Q3F","Pockets of Enduring Demand","Future","Very few",4
-"73",NA,"Steve Oswalt","North America","Conditions of Demand","Q4","Product Differentiation","Current","Somehewhat Commoditized",4
+"73","Strategy Council","Steve Oswalt","North America","Conditions of Demand","Q4","Product Differentiation","Current","Somehewhat Commoditized",4
 "74","Working Team","Thiago Matos","North America","Conditions of Demand","Q4","Product Differentiation","Current","Mixed",3
 "75","Working Team","Evgeny Zaytsev","North America","Conditions of Demand","Q4","Product Differentiation","Current","Somewhat Branded",2
 "76","Working Team","Hilary Jones","North America","Conditions of Demand","Q4","Product Differentiation","Current","Mixed",3
@@ -83,7 +83,7 @@
 "82","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q4","Product Differentiation","Current","Somehewhat Commoditized",4
 "83","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q4","Product Differentiation","Current","Commoditized",5
 "84","Working Team","Jeff Monroe","North America","Conditions of Demand","Q4","Product Differentiation","Current","Somehewhat Commoditized",4
-"85",NA,"Steve Oswalt","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Somehewhat Commoditized",4
+"85","Strategy Council","Steve Oswalt","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Somehewhat Commoditized",4
 "86","Working Team","Thiago Matos","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Mixed",3
 "87","Working Team","Evgeny Zaytsev","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Somewhat Branded",2
 "88","Working Team","Hilary Jones","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Somewhat Branded",2
@@ -95,7 +95,7 @@
 "94","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Somehewhat Commoditized",4
 "95","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Commoditized",5
 "96","Working Team","Jeff Monroe","North America","Conditions of Demand","Q4F","Product Differentiation","Future","Commoditized",5
-"97",NA,"Steve Oswalt","North America","Conditions of Demand","Q5","Price Stabiity","Current","Neutral",3
+"97","Strategy Council","Steve Oswalt","North America","Conditions of Demand","Q5","Price Stabiity","Current","Neutral",3
 "98","Working Team","Thiago Matos","North America","Conditions of Demand","Q5","Price Stabiity","Current","Somewhat Stable",2
 "99","Working Team","Evgeny Zaytsev","North America","Conditions of Demand","Q5","Price Stabiity","Current","Somewhat Stable",2
 "100","Working Team","Hilary Jones","North America","Conditions of Demand","Q5","Price Stabiity","Current","Somehewhat Unstable",4
@@ -107,7 +107,7 @@
 "106","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q5","Price Stabiity","Current","Neutral",3
 "107","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q5","Price Stabiity","Current","Somewhat Stable",2
 "108","Working Team","Jeff Monroe","North America","Conditions of Demand","Q5","Price Stabiity","Current","Somewhat Stable",2
-"109",NA,"Steve Oswalt","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Somewhat Stable",2
+"109","Strategy Council","Steve Oswalt","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Somewhat Stable",2
 "110","Working Team","Thiago Matos","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Neutral",3
 "111","Working Team","Evgeny Zaytsev","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Somewhat Stable",2
 "112","Working Team","Hilary Jones","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Somehewhat Unstable",4
@@ -119,7 +119,7 @@
 "118","Strategy Council","Jean-Michel Ribieras","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Somewhat Stable",2
 "119","Strategy Council","Kristine Vela","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Somewhat Stable",2
 "120","Working Team","Jeff Monroe","North America","Conditions of Demand","Q5F","Price Stabiity","Future","Neutral",3
-"121",NA,"Steve Oswalt","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","High",5
+"121","Strategy Council","Steve Oswalt","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","High",5
 "122","Working Team","Thiago Matos","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","Few",3
 "123","Working Team","Evgeny Zaytsev","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","Some",4
 "124","Working Team","Hilary Jones","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","High",5
@@ -131,7 +131,7 @@
 "130","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","Some",4
 "131","Strategy Council","Kristine Vela","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","Some",4
 "132","Working Team","Jeff Monroe","North America","Exit Barriers","Q6","Reinvestment Barriers","Current","Few",3
-"133",NA,"Steve Oswalt","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","High",5
+"133","Strategy Council","Steve Oswalt","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","High",5
 "134","Working Team","Thiago Matos","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","Few",3
 "135","Working Team","Evgeny Zaytsev","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","Some",4
 "136","Working Team","Hilary Jones","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","High",5
@@ -143,7 +143,7 @@
 "142","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","Some",4
 "143","Strategy Council","Kristine Vela","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","Some",4
 "144","Working Team","Jeff Monroe","North America","Exit Barriers","Q6F","Reinvestment Barriers","Future","Some",4
-"145",NA,"Steve Oswalt","North America","Exit Barriers","Q7","Excess Capacity","Current","Substantial",4
+"145","Strategy Council","Steve Oswalt","North America","Exit Barriers","Q7","Excess Capacity","Current","Substantial",4
 "146","Working Team","Thiago Matos","North America","Exit Barriers","Q7","Excess Capacity","Current","Little",2
 "147","Working Team","Evgeny Zaytsev","North America","Exit Barriers","Q7","Excess Capacity","Current","Little",2
 "148","Working Team","Hilary Jones","North America","Exit Barriers","Q7","Excess Capacity","Current","Some",3
@@ -155,7 +155,7 @@
 "154","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q7","Excess Capacity","Current","Some",3
 "155","Strategy Council","Kristine Vela","North America","Exit Barriers","Q7","Excess Capacity","Current","Some",3
 "156","Working Team","Jeff Monroe","North America","Exit Barriers","Q7","Excess Capacity","Current","Some",3
-"157",NA,"Steve Oswalt","North America","Exit Barriers","Q7F","Excess Capacity","Future","Little",2
+"157","Strategy Council","Steve Oswalt","North America","Exit Barriers","Q7F","Excess Capacity","Future","Little",2
 "158","Working Team","Thiago Matos","North America","Exit Barriers","Q7F","Excess Capacity","Future","Little",2
 "159","Working Team","Evgeny Zaytsev","North America","Exit Barriers","Q7F","Excess Capacity","Future","Little",2
 "160","Working Team","Hilary Jones","North America","Exit Barriers","Q7F","Excess Capacity","Future","Substantial",4
@@ -167,7 +167,7 @@
 "166","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q7F","Excess Capacity","Future","Some",3
 "167","Strategy Council","Kristine Vela","North America","Exit Barriers","Q7F","Excess Capacity","Future","Some",3
 "168","Working Team","Jeff Monroe","North America","Exit Barriers","Q7F","Excess Capacity","Future","Substantial",4
-"169",NA,"Steve Oswalt","North America","Exit Barriers","Q8","Asset Age","Current","Mostly Old",1
+"169","Strategy Council","Steve Oswalt","North America","Exit Barriers","Q8","Asset Age","Current","Mostly Old",1
 "170","Working Team","Thiago Matos","North America","Exit Barriers","Q8","Asset Age","Current","Few Old",2
 "171","Working Team","Evgeny Zaytsev","North America","Exit Barriers","Q8","Asset Age","Current","Neutral",3
 "172","Working Team","Hilary Jones","North America","Exit Barriers","Q8","Asset Age","Current","Mostly Old",1
@@ -179,7 +179,7 @@
 "178","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q8","Asset Age","Current","Neutral",3
 "179","Strategy Council","Kristine Vela","North America","Exit Barriers","Q8","Asset Age","Current","Mostly Old",1
 "180","Working Team","Jeff Monroe","North America","Exit Barriers","Q8","Asset Age","Current","Few Old",2
-"181",NA,"Steve Oswalt","North America","Exit Barriers","Q8F","Asset Age","Future","Mostly Old",1
+"181","Strategy Council","Steve Oswalt","North America","Exit Barriers","Q8F","Asset Age","Future","Mostly Old",1
 "182","Working Team","Thiago Matos","North America","Exit Barriers","Q8F","Asset Age","Future","Mostly Old",1
 "183","Working Team","Evgeny Zaytsev","North America","Exit Barriers","Q8F","Asset Age","Future","Neutral",3
 "184","Working Team","Hilary Jones","North America","Exit Barriers","Q8F","Asset Age","Future","Mostly Old",1
@@ -191,7 +191,7 @@
 "190","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q8F","Asset Age","Future","Few New",4
 "191","Strategy Council","Kristine Vela","North America","Exit Barriers","Q8F","Asset Age","Future","Mostly Old",1
 "192","Working Team","Jeff Monroe","North America","Exit Barriers","Q8F","Asset Age","Future","Mostly Old",1
-"193",NA,"Steve Oswalt","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Difficult",5
+"193","Strategy Council","Steve Oswalt","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Difficult",5
 "194","Working Team","Thiago Matos","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Somewhat Easy",2
 "195","Working Team","Evgeny Zaytsev","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Somewhat Difficult",4
 "196","Working Team","Hilary Jones","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Neutral",3
@@ -203,7 +203,7 @@
 "202","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Somewhat Difficult",4
 "203","Strategy Council","Kristine Vela","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Neutral",3
 "204","Working Team","Jeff Monroe","North America","Exit Barriers","Q9","Resale Markets for Assets","Current","Somewhat Difficult",4
-"205",NA,"Steve Oswalt","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Difficult",5
+"205","Strategy Council","Steve Oswalt","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Difficult",5
 "206","Working Team","Thiago Matos","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Somewhat Easy",2
 "207","Working Team","Evgeny Zaytsev","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Somewhat Difficult",4
 "208","Working Team","Hilary Jones","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Neutral",3
@@ -215,7 +215,7 @@
 "214","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Somewhat Difficult",4
 "215","Strategy Council","Kristine Vela","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Neutral",3
 "216","Working Team","Jeff Monroe","North America","Exit Barriers","Q9F","Resale Markets for Assets","Future","Difficult",5
-"217",NA,"Steve Oswalt","North America","Exit Barriers","Q10","Shared Facilities","Current","Substantial",4
+"217","Strategy Council","Steve Oswalt","North America","Exit Barriers","Q10","Shared Facilities","Current","Substantial",4
 "218","Working Team","Thiago Matos","North America","Exit Barriers","Q10","Shared Facilities","Current","Few",2
 "219","Working Team","Evgeny Zaytsev","North America","Exit Barriers","Q10","Shared Facilities","Current","Some",3
 "220","Working Team","Hilary Jones","North America","Exit Barriers","Q10","Shared Facilities","Current","Some",3
@@ -227,7 +227,7 @@
 "226","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q10","Shared Facilities","Current","Some",3
 "227","Strategy Council","Kristine Vela","North America","Exit Barriers","Q10","Shared Facilities","Current","Mostly Standalone",1
 "228","Working Team","Jeff Monroe","North America","Exit Barriers","Q10","Shared Facilities","Current","Few",2
-"229",NA,"Steve Oswalt","North America","Exit Barriers","Q10F","Shared Facilities","Future","Substantial",4
+"229","Strategy Council","Steve Oswalt","North America","Exit Barriers","Q10F","Shared Facilities","Future","Substantial",4
 "230","Working Team","Thiago Matos","North America","Exit Barriers","Q10F","Shared Facilities","Future","Few",2
 "231","Working Team","Evgeny Zaytsev","North America","Exit Barriers","Q10F","Shared Facilities","Future","Some",3
 "232","Working Team","Hilary Jones","North America","Exit Barriers","Q10F","Shared Facilities","Future","Some",3
@@ -239,7 +239,7 @@
 "238","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q10F","Shared Facilities","Future","Mostly Standalone",1
 "239","Strategy Council","Kristine Vela","North America","Exit Barriers","Q10F","Shared Facilities","Future","Mostly Standalone",1
 "240","Working Team","Jeff Monroe","North America","Exit Barriers","Q10F","Shared Facilities","Future","Some",3
-"241",NA,"Steve Oswalt","North America","Exit Barriers","Q11","Vertical Integration","Current","Substantial",4
+"241","Strategy Council","Steve Oswalt","North America","Exit Barriers","Q11","Vertical Integration","Current","Substantial",4
 "242","Working Team","Thiago Matos","North America","Exit Barriers","Q11","Vertical Integration","Current","Substantial",4
 "243","Working Team","Evgeny Zaytsev","North America","Exit Barriers","Q11","Vertical Integration","Current","Very Substantial",5
 "244","Working Team","Hilary Jones","North America","Exit Barriers","Q11","Vertical Integration","Current","Some",3
@@ -251,7 +251,7 @@
 "250","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q11","Vertical Integration","Current","Some",3
 "251","Strategy Council","Kristine Vela","North America","Exit Barriers","Q11","Vertical Integration","Current","Very Little",1
 "252","Working Team","Jeff Monroe","North America","Exit Barriers","Q11","Vertical Integration","Current","Very Little",1
-"253",NA,"Steve Oswalt","North America","Exit Barriers","Q11F","Vertical Integration","Future","Substantial",4
+"253","Strategy Council","Steve Oswalt","North America","Exit Barriers","Q11F","Vertical Integration","Future","Substantial",4
 "254","Working Team","Thiago Matos","North America","Exit Barriers","Q11F","Vertical Integration","Future","Very Substantial",5
 "255","Working Team","Evgeny Zaytsev","North America","Exit Barriers","Q11F","Vertical Integration","Future","Very Substantial",5
 "256","Working Team","Hilary Jones","North America","Exit Barriers","Q11F","Vertical Integration","Future","Some",3
@@ -263,7 +263,7 @@
 "262","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q11F","Vertical Integration","Future","Substantial",4
 "263","Strategy Council","Kristine Vela","North America","Exit Barriers","Q11F","Vertical Integration","Future","Very Little",1
 "264","Working Team","Jeff Monroe","North America","Exit Barriers","Q11F","Vertical Integration","Future","Little",2
-"265",NA,"Steve Oswalt","North America","Exit Barriers","Q12","Single Product Competitors","Current","Very Few",2
+"265","Strategy Council","Steve Oswalt","North America","Exit Barriers","Q12","Single Product Competitors","Current","Very Few",2
 "266","Working Team","Thiago Matos","North America","Exit Barriers","Q12","Single Product Competitors","Current","Some",4
 "267","Working Team","Evgeny Zaytsev","North America","Exit Barriers","Q12","Single Product Competitors","Current","Many",5
 "268","Working Team","Hilary Jones","North America","Exit Barriers","Q12","Single Product Competitors","Current","Few",3
@@ -275,7 +275,7 @@
 "274","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q12","Single Product Competitors","Current","Few",3
 "275","Strategy Council","Kristine Vela","North America","Exit Barriers","Q12","Single Product Competitors","Current","Very Few",2
 "276","Working Team","Jeff Monroe","North America","Exit Barriers","Q12","Single Product Competitors","Current","Few",3
-"277",NA,"Steve Oswalt","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Very Few",2
+"277","Strategy Council","Steve Oswalt","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Very Few",2
 "278","Working Team","Thiago Matos","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Some",4
 "279","Working Team","Evgeny Zaytsev","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Many",5
 "280","Working Team","Hilary Jones","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Few",3
@@ -287,7 +287,7 @@
 "286","Strategy Council","Jean-Michel Ribieras","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Few",3
 "287","Strategy Council","Kristine Vela","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Few",3
 "288","Working Team","Jeff Monroe","North America","Exit Barriers","Q12F","Single Product Competitors","Future","Some",4
-"289",NA,"Steve Oswalt","North America","Rivalry Determinants","Q13","Customer Power","Current","Strong",4
+"289","Strategy Council","Steve Oswalt","North America","Rivalry Determinants","Q13","Customer Power","Current","Strong",4
 "290","Working Team","Thiago Matos","North America","Rivalry Determinants","Q13","Customer Power","Current","Neutral",3
 "291","Working Team","Evgeny Zaytsev","North America","Rivalry Determinants","Q13","Customer Power","Current","Weak",2
 "292","Working Team","Hilary Jones","North America","Rivalry Determinants","Q13","Customer Power","Current","Strong",4
@@ -299,7 +299,7 @@
 "298","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q13","Customer Power","Current","Strong",4
 "299","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q13","Customer Power","Current","Neutral",3
 "300","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q13","Customer Power","Current","Strong",4
-"301",NA,"Steve Oswalt","North America","Rivalry Determinants","Q13F","Customer Power","Future","Strong",4
+"301","Strategy Council","Steve Oswalt","North America","Rivalry Determinants","Q13F","Customer Power","Future","Strong",4
 "302","Working Team","Thiago Matos","North America","Rivalry Determinants","Q13F","Customer Power","Future","Neutral",3
 "303","Working Team","Evgeny Zaytsev","North America","Rivalry Determinants","Q13F","Customer Power","Future","Weak",2
 "304","Working Team","Hilary Jones","North America","Rivalry Determinants","Q13F","Customer Power","Future","Strong",4
@@ -311,7 +311,7 @@
 "310","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q13F","Customer Power","Future","Neutral",3
 "311","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q13F","Customer Power","Future","Strong",4
 "312","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q13F","Customer Power","Future","Very Strong",5
-"313",NA,"Steve Oswalt","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Few",3
+"313","Strategy Council","Steve Oswalt","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Few",3
 "314","Working Team","Thiago Matos","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Few",3
 "315","Working Team","Evgeny Zaytsev","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Very Minimal",5
 "316","Working Team","Hilary Jones","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Few",3
@@ -323,7 +323,7 @@
 "322","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Few",3
 "323","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Few",3
 "324","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q14","Customer Switching Costs","Current","Minimal",4
-"325",NA,"Steve Oswalt","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","Few",3
+"325","Strategy Council","Steve Oswalt","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","Few",3
 "326","Working Team","Thiago Matos","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","Few",3
 "327","Working Team","Evgeny Zaytsev","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","Very Minimal",5
 "328","Working Team","Hilary Jones","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","Few",3
@@ -335,7 +335,7 @@
 "334","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","High",2
 "335","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","Few",3
 "336","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q14F","Customer Switching Costs","Future","Very Minimal",5
-"337",NA,"Steve Oswalt","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Significant",1
+"337","Strategy Council","Steve Oswalt","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Significant",1
 "338","Working Team","Thiago Matos","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Some",2
 "339","Working Team","Evgeny Zaytsev","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Significant",1
 "340","Working Team","Hilary Jones","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Some",2
@@ -347,7 +347,7 @@
 "346","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Some",2
 "347","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Significant",1
 "348","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q15","Economies of Scale","Current","Some",2
-"349",NA,"Steve Oswalt","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Significant",1
+"349","Strategy Council","Steve Oswalt","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Significant",1
 "350","Working Team","Thiago Matos","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Significant",1
 "351","Working Team","Evgeny Zaytsev","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Significant",1
 "352","Working Team","Hilary Jones","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Some",2
@@ -359,7 +359,7 @@
 "358","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Some",2
 "359","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Significant",1
 "360","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q15F","Economies of Scale","Future","Significant",1
-"361",NA,"Steve Oswalt","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Concentrated",4
+"361","Strategy Council","Steve Oswalt","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Concentrated",4
 "362","Working Team","Thiago Matos","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Concentrated",4
 "363","Working Team","Evgeny Zaytsev","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Highly Concentrated",5
 "364","Working Team","Hilary Jones","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Concentrated",4
@@ -371,7 +371,7 @@
 "370","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Balanced",3
 "371","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Highly Concentrated",5
 "372","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q16","Number of Competitors","Current","Concentrated",4
-"373",NA,"Steve Oswalt","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Concentrated",4
+"373","Strategy Council","Steve Oswalt","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Concentrated",4
 "374","Working Team","Thiago Matos","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Highly Concentrated",5
 "375","Working Team","Evgeny Zaytsev","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Highly Concentrated",5
 "376","Working Team","Hilary Jones","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Concentrated",4
@@ -383,7 +383,7 @@
 "382","Strategy Council","Jean-Michel Ribieras","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Concentrated",4
 "383","Strategy Council","Kristine Vela","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Highly Concentrated",5
 "384","Working Team","Jeff Monroe","North America","Rivalry Determinants","Q16F","Number of Competitors","Future","Highly Concentrated",5
-"385",NA,"Steve Oswalt","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Moderate",3
+"385","Strategy Council","Steve Oswalt","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Moderate",3
 "386","Working Team","Thiago Matos","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Moderate",3
 "387","Working Team","Evgeny Zaytsev","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Moderate",3
 "388","Working Team","Hilary Jones","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Moderate",3
@@ -395,7 +395,7 @@
 "394","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Fast",4
 "395","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Moderate",3
 "396","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q17","Speed of Decline","Current","Moderate",3
-"397",NA,"Steve Oswalt","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Slow",2
+"397","Strategy Council","Steve Oswalt","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Slow",2
 "398","Working Team","Thiago Matos","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Fast",4
 "399","Working Team","Evgeny Zaytsev","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Slow",2
 "400","Working Team","Hilary Jones","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Slow",2
@@ -407,7 +407,7 @@
 "406","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Moderate",3
 "407","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Moderate",3
 "408","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q17F","Speed of Decline","Future","Moderate",3
-"409",NA,"Steve Oswalt","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Very Certain",1
+"409","Strategy Council","Steve Oswalt","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Very Certain",1
 "410","Working Team","Thiago Matos","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Somewhat Certain",2
 "411","Working Team","Evgeny Zaytsev","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Very Certain",1
 "412","Working Team","Hilary Jones","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Somewhat Uncertain",4
@@ -419,7 +419,7 @@
 "418","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Certain",3
 "419","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Certain",3
 "420","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q18","Certainty of Decline","Current","Certain",3
-"421",NA,"Steve Oswalt","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Very Certain",1
+"421","Strategy Council","Steve Oswalt","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Very Certain",1
 "422","Working Team","Thiago Matos","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Very Certain",1
 "423","Working Team","Evgeny Zaytsev","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Very Certain",1
 "424","Working Team","Hilary Jones","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Somewhat Uncertain",4
@@ -431,7 +431,7 @@
 "430","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Somewhat Uncertain",4
 "431","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Certain",3
 "432","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q18F","Certainty of Decline","Future","Somewhat Uncertain",4
-"433",NA,"Steve Oswalt","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Few",3
+"433","Strategy Council","Steve Oswalt","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Few",3
 "434","Working Team","Thiago Matos","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Few",3
 "435","Working Team","Evgeny Zaytsev","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Very few",4
 "436","Working Team","Hilary Jones","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Some",2
@@ -443,7 +443,7 @@
 "442","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Few",3
 "443","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Few",3
 "444","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q19","Pockets of Enduring Demand","Current","Few",3
-"445",NA,"Steve Oswalt","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Few",3
+"445","Strategy Council","Steve Oswalt","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Few",3
 "446","Working Team","Thiago Matos","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Few",3
 "447","Working Team","Evgeny Zaytsev","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Very few",4
 "448","Working Team","Hilary Jones","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Some",2
@@ -455,7 +455,7 @@
 "454","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Few",3
 "455","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Few",3
 "456","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q19F","Pockets of Enduring Demand","Future","Very few",4
-"457",NA,"Steve Oswalt","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Somehewhat Commoditized",4
+"457","Strategy Council","Steve Oswalt","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Somehewhat Commoditized",4
 "458","Working Team","Thiago Matos","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Somehewhat Commoditized",4
 "459","Working Team","Evgeny Zaytsev","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Mixed",3
 "460","Working Team","Hilary Jones","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Mixed",3
@@ -467,7 +467,7 @@
 "466","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Somehewhat Commoditized",4
 "467","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Commoditized",5
 "468","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q20","Product Differentiation","Current","Mixed",3
-"469",NA,"Steve Oswalt","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Somehewhat Commoditized",4
+"469","Strategy Council","Steve Oswalt","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Somehewhat Commoditized",4
 "470","Working Team","Thiago Matos","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Somehewhat Commoditized",4
 "471","Working Team","Evgeny Zaytsev","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Mixed",3
 "472","Working Team","Hilary Jones","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Mixed",3
@@ -479,7 +479,7 @@
 "478","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Somehewhat Commoditized",4
 "479","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Commoditized",5
 "480","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q20F","Product Differentiation","Future","Somehewhat Commoditized",4
-"481",NA,"Steve Oswalt","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Somehewhat Unstable",4
+"481","Strategy Council","Steve Oswalt","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Somehewhat Unstable",4
 "482","Working Team","Thiago Matos","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Highly Unstable",5
 "483","Working Team","Evgeny Zaytsev","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Somehewhat Unstable",4
 "484","Working Team","Hilary Jones","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Somehewhat Unstable",4
@@ -491,7 +491,7 @@
 "490","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Somehewhat Unstable",4
 "491","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Somewhat Stable",2
 "492","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q21","Price Stabiity","Current","Neutral",3
-"493",NA,"Steve Oswalt","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Neutral",3
+"493","Strategy Council","Steve Oswalt","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Neutral",3
 "494","Working Team","Thiago Matos","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Somehewhat Unstable",4
 "495","Working Team","Evgeny Zaytsev","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Neutral",3
 "496","Working Team","Hilary Jones","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Somehewhat Unstable",4
@@ -503,7 +503,7 @@
 "502","Strategy Council","Jean-Michel Ribieras","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Neutral",3
 "503","Strategy Council","Kristine Vela","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Somewhat Stable",2
 "504","Working Team","Jeff Monroe","Western Europe","Conditions of Demand","Q21F","Price Stabiity","Future","Somehewhat Unstable",4
-"505",NA,"Steve Oswalt","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","High",5
+"505","Strategy Council","Steve Oswalt","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","High",5
 "506","Working Team","Thiago Matos","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Some",4
 "507","Working Team","Evgeny Zaytsev","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Some",4
 "508","Working Team","Hilary Jones","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Some",4
@@ -515,7 +515,7 @@
 "514","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Some",4
 "515","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Few",3
 "516","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q22","Reinvestment Barriers","Current","Some",4
-"517",NA,"Steve Oswalt","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","High",5
+"517","Strategy Council","Steve Oswalt","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","High",5
 "518","Working Team","Thiago Matos","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","Some",4
 "519","Working Team","Evgeny Zaytsev","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","Some",4
 "520","Working Team","Hilary Jones","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","Some",4
@@ -527,7 +527,7 @@
 "526","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","Some",4
 "527","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","Few",3
 "528","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q22F","Reinvestment Barriers","Future","High",5
-"529",NA,"Steve Oswalt","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Substantial",4
+"529","Strategy Council","Steve Oswalt","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Substantial",4
 "530","Working Team","Thiago Matos","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Some",3
 "531","Working Team","Evgeny Zaytsev","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Little",2
 "532","Working Team","Hilary Jones","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Substantial",4
@@ -539,7 +539,7 @@
 "538","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Substantial",4
 "539","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Some",3
 "540","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q23","Excess Capacity","Current","Substantial",4
-"541",NA,"Steve Oswalt","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Little",2
+"541","Strategy Council","Steve Oswalt","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Little",2
 "542","Working Team","Thiago Matos","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Some",3
 "543","Working Team","Evgeny Zaytsev","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Very Little",1
 "544","Working Team","Hilary Jones","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Substantial",4
@@ -551,7 +551,7 @@
 "550","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Little",2
 "551","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Some",3
 "552","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q23F","Excess Capacity","Future","Very Substantial",5
-"553",NA,"Steve Oswalt","Western Europe","Exit Barriers","Q24","Asset Age","Current","Mostly Old",1
+"553","Strategy Council","Steve Oswalt","Western Europe","Exit Barriers","Q24","Asset Age","Current","Mostly Old",1
 "554","Working Team","Thiago Matos","Western Europe","Exit Barriers","Q24","Asset Age","Current","Few Old",2
 "555","Working Team","Evgeny Zaytsev","Western Europe","Exit Barriers","Q24","Asset Age","Current","Neutral",3
 "556","Working Team","Hilary Jones","Western Europe","Exit Barriers","Q24","Asset Age","Current","Neutral",3
@@ -563,7 +563,7 @@
 "562","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q24","Asset Age","Current","Neutral",3
 "563","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q24","Asset Age","Current","Mostly Old",1
 "564","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q24","Asset Age","Current","Few Old",2
-"565",NA,"Steve Oswalt","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Mostly Old",1
+"565","Strategy Council","Steve Oswalt","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Mostly Old",1
 "566","Working Team","Thiago Matos","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Mostly Old",1
 "567","Working Team","Evgeny Zaytsev","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Neutral",3
 "568","Working Team","Hilary Jones","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Neutral",3
@@ -575,7 +575,7 @@
 "574","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Few Old",2
 "575","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Mostly Old",1
 "576","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q24F","Asset Age","Future","Mostly Old",1
-"577",NA,"Steve Oswalt","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Difficult",5
+"577","Strategy Council","Steve Oswalt","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Difficult",5
 "578","Working Team","Thiago Matos","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Somewhat Difficult",4
 "579","Working Team","Evgeny Zaytsev","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Somewhat Difficult",4
 "580","Working Team","Hilary Jones","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Somewhat Easy",2
@@ -587,7 +587,7 @@
 "586","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Difficult",5
 "587","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Neutral",3
 "588","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q25","Resale Markets for Assets","Current","Somewhat Difficult",4
-"589",NA,"Steve Oswalt","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Difficult",5
+"589","Strategy Council","Steve Oswalt","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Difficult",5
 "590","Working Team","Thiago Matos","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Somewhat Difficult",4
 "591","Working Team","Evgeny Zaytsev","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Somewhat Difficult",4
 "592","Working Team","Hilary Jones","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Neutral",3
@@ -599,7 +599,7 @@
 "598","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Difficult",5
 "599","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Neutral",3
 "600","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q25F","Resale Markets for Assets","Future","Difficult",5
-"601",NA,"Steve Oswalt","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Mostly Shared",5
+"601","Strategy Council","Steve Oswalt","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Mostly Shared",5
 "602","Working Team","Thiago Matos","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Some",3
 "603","Working Team","Evgeny Zaytsev","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Substantial",4
 "604","Working Team","Hilary Jones","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Some",3
@@ -611,7 +611,7 @@
 "610","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Few",2
 "611","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Mostly Standalone",1
 "612","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q26","Shared Facilities","Current","Some",3
-"613",NA,"Steve Oswalt","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Mostly Shared",5
+"613","Strategy Council","Steve Oswalt","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Mostly Shared",5
 "614","Working Team","Thiago Matos","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Some",3
 "615","Working Team","Evgeny Zaytsev","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Substantial",4
 "616","Working Team","Hilary Jones","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Some",3
@@ -623,7 +623,7 @@
 "622","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Few",2
 "623","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Mostly Standalone",1
 "624","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q26F","Shared Facilities","Future","Some",3
-"625",NA,"Steve Oswalt","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Substantial",4
+"625","Strategy Council","Steve Oswalt","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Substantial",4
 "626","Working Team","Thiago Matos","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Substantial",4
 "627","Working Team","Evgeny Zaytsev","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Some",3
 "628","Working Team","Hilary Jones","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Little",2
@@ -635,7 +635,7 @@
 "634","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Some",3
 "635","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Very Little",1
 "636","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q27","Vertical Integration","Current","Little",2
-"637",NA,"Steve Oswalt","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Substantial",4
+"637","Strategy Council","Steve Oswalt","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Substantial",4
 "638","Working Team","Thiago Matos","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Very Substantial",5
 "639","Working Team","Evgeny Zaytsev","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Some",3
 "640","Working Team","Hilary Jones","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Little",2
@@ -647,7 +647,7 @@
 "646","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Substantial",4
 "647","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Very Little",1
 "648","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q27F","Vertical Integration","Future","Very Little",1
-"649",NA,"Steve Oswalt","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","None",1
+"649","Strategy Council","Steve Oswalt","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","None",1
 "650","Working Team","Thiago Matos","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Some",4
 "651","Working Team","Evgeny Zaytsev","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Very Few",2
 "652","Working Team","Hilary Jones","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Few",3
@@ -659,7 +659,7 @@
 "658","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Few",3
 "659","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Few",3
 "660","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q28","Single Product Competitors","Current","Few",3
-"661",NA,"Steve Oswalt","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","None",1
+"661","Strategy Council","Steve Oswalt","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","None",1
 "662","Working Team","Thiago Matos","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Some",4
 "663","Working Team","Evgeny Zaytsev","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Very Few",2
 "664","Working Team","Hilary Jones","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Few",3
@@ -671,7 +671,7 @@
 "670","Strategy Council","Jean-Michel Ribieras","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Few",3
 "671","Strategy Council","Kristine Vela","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Few",3
 "672","Working Team","Jeff Monroe","Western Europe","Exit Barriers","Q28F","Single Product Competitors","Future","Very Few",2
-"673",NA,"Steve Oswalt","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Strong",4
+"673","Strategy Council","Steve Oswalt","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Strong",4
 "674","Working Team","Thiago Matos","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Strong",4
 "675","Working Team","Evgeny Zaytsev","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Weak",2
 "676","Working Team","Hilary Jones","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Neutral",3
@@ -683,7 +683,7 @@
 "682","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Strong",4
 "683","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Neutral",3
 "684","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q29","Customer Power","Current","Neutral",3
-"685",NA,"Steve Oswalt","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Strong",4
+"685","Strategy Council","Steve Oswalt","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Strong",4
 "686","Working Team","Thiago Matos","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Strong",4
 "687","Working Team","Evgeny Zaytsev","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Weak",2
 "688","Working Team","Hilary Jones","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Neutral",3
@@ -695,7 +695,7 @@
 "694","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Neutral",3
 "695","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Neutral",3
 "696","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q29F","Customer Power","Future","Strong",4
-"697",NA,"Steve Oswalt","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Minimal",4
+"697","Strategy Council","Steve Oswalt","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Minimal",4
 "698","Working Team","Thiago Matos","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Few",3
 "699","Working Team","Evgeny Zaytsev","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Very Minimal",5
 "700","Working Team","Hilary Jones","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Few",3
@@ -707,7 +707,7 @@
 "706","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Minimal",4
 "707","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Few",3
 "708","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q30","Customer Switching Costs","Current","Few",3
-"709",NA,"Steve Oswalt","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Minimal",4
+"709","Strategy Council","Steve Oswalt","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Minimal",4
 "710","Working Team","Thiago Matos","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Few",3
 "711","Working Team","Evgeny Zaytsev","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Very Minimal",5
 "712","Working Team","Hilary Jones","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Few",3
@@ -719,7 +719,7 @@
 "718","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Few",3
 "719","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Few",3
 "720","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q30F","Customer Switching Costs","Future","Minimal",4
-"721",NA,"Steve Oswalt","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Significant",1
+"721","Strategy Council","Steve Oswalt","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Significant",1
 "722","Working Team","Thiago Matos","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Few",3
 "723","Working Team","Evgeny Zaytsev","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Significant",1
 "724","Working Team","Hilary Jones","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Some",2
@@ -731,7 +731,7 @@
 "730","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Significant",1
 "731","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Significant",1
 "732","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q31","Economies of Scale","Current","Some",2
-"733",NA,"Steve Oswalt","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Significant",1
+"733","Strategy Council","Steve Oswalt","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Significant",1
 "734","Working Team","Thiago Matos","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Few",3
 "735","Working Team","Evgeny Zaytsev","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Significant",1
 "736","Working Team","Hilary Jones","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Some",2
@@ -743,7 +743,7 @@
 "742","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Significant",1
 "743","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Significant",1
 "744","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q31F","Economies of Scale","Future","Significant",1
-"745",NA,"Steve Oswalt","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Fragmented",2
+"745","Strategy Council","Steve Oswalt","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Fragmented",2
 "746","Working Team","Thiago Matos","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Highly Fragmented",1
 "747","Working Team","Evgeny Zaytsev","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Fragmented",2
 "748","Working Team","Hilary Jones","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Balanced",3
@@ -755,7 +755,7 @@
 "754","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Balanced",3
 "755","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Fragmented",2
 "756","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q32","Number of Competitors","Current","Concentrated",4
-"757",NA,"Steve Oswalt","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Balanced",3
+"757","Strategy Council","Steve Oswalt","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Balanced",3
 "758","Working Team","Thiago Matos","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Balanced",3
 "759","Working Team","Evgeny Zaytsev","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Balanced",3
 "760","Working Team","Hilary Jones","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Balanced",3
@@ -767,7 +767,7 @@
 "766","Strategy Council","Jean-Michel Ribieras","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Concentrated",4
 "767","Strategy Council","Kristine Vela","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Balanced",3
 "768","Working Team","Jeff Monroe","Western Europe","Rivalry Determinants","Q32F","Number of Competitors","Future","Highly Concentrated",5
-"769",NA,"Steve Oswalt","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Very Slow",1
+"769","Strategy Council","Steve Oswalt","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Very Slow",1
 "770","Working Team","Thiago Matos","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Very Slow",1
 "771","Working Team","Evgeny Zaytsev","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Slow",2
 "772","Working Team","Hilary Jones","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Very Slow",1
@@ -779,7 +779,7 @@
 "778","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Slow",2
 "779","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Very Slow",1
 "780","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q33","Speed of Decline","Current","Moderate",3
-"781",NA,"Steve Oswalt","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Slow",2
+"781","Strategy Council","Steve Oswalt","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Slow",2
 "782","Working Team","Thiago Matos","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Moderate",3
 "783","Working Team","Evgeny Zaytsev","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Moderate",3
 "784","Working Team","Hilary Jones","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Very Slow",1
@@ -791,7 +791,7 @@
 "790","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Slow",2
 "791","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Very Slow",1
 "792","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q33F","Speed of Decline","Future","Moderate",3
-"793",NA,"Steve Oswalt","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Very Certain",1
+"793","Strategy Council","Steve Oswalt","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Very Certain",1
 "794","Working Team","Thiago Matos","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Somewhat Uncertain",4
 "795","Working Team","Evgeny Zaytsev","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Somewhat Certain",2
 "796","Working Team","Hilary Jones","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Certain",3
@@ -803,7 +803,7 @@
 "802","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Somewhat Uncertain",4
 "803","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Very Certain",1
 "804","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q34","Certainty of Decline","Current","Certain",3
-"805",NA,"Steve Oswalt","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Very Certain",1
+"805","Strategy Council","Steve Oswalt","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Very Certain",1
 "806","Working Team","Thiago Matos","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Somewhat Uncertain",4
 "807","Working Team","Evgeny Zaytsev","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Certain",3
 "808","Working Team","Hilary Jones","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Certain",3
@@ -815,7 +815,7 @@
 "814","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Somewhat Uncertain",4
 "815","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Very Certain",1
 "816","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q34F","Certainty of Decline","Future","Certain",3
-"817",NA,"Steve Oswalt","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Some",2
+"817","Strategy Council","Steve Oswalt","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Some",2
 "818","Working Team","Thiago Matos","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Some",2
 "819","Working Team","Evgeny Zaytsev","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Few",3
 "820","Working Team","Hilary Jones","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Some",2
@@ -827,7 +827,7 @@
 "826","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Some",2
 "827","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Some",2
 "828","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q35","Pockets of Enduring Demand","Current","Few",3
-"829",NA,"Steve Oswalt","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Few",3
+"829","Strategy Council","Steve Oswalt","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Few",3
 "830","Working Team","Thiago Matos","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Some",2
 "831","Working Team","Evgeny Zaytsev","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Very few",4
 "832","Working Team","Hilary Jones","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Some",2
@@ -839,7 +839,7 @@
 "838","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Some",2
 "839","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Some",2
 "840","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q35F","Pockets of Enduring Demand","Future","Some",2
-"841",NA,"Steve Oswalt","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Somehewhat Commoditized",4
+"841","Strategy Council","Steve Oswalt","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Somehewhat Commoditized",4
 "842","Working Team","Thiago Matos","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Somewhat Branded",2
 "843","Working Team","Evgeny Zaytsev","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Somewhat Branded",2
 "844","Working Team","Hilary Jones","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Somewhat Branded",2
@@ -851,7 +851,7 @@
 "850","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Somewhat Branded",2
 "851","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Commoditized",5
 "852","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q36","Product Differentiation","Current","Somehewhat Commoditized",4
-"853",NA,"Steve Oswalt","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Somehewhat Commoditized",4
+"853","Strategy Council","Steve Oswalt","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Somehewhat Commoditized",4
 "854","Working Team","Thiago Matos","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Somewhat Branded",2
 "855","Working Team","Evgeny Zaytsev","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Somewhat Branded",2
 "856","Working Team","Hilary Jones","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Somewhat Branded",2
@@ -863,7 +863,7 @@
 "862","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Somewhat Branded",2
 "863","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Commoditized",5
 "864","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q36F","Product Differentiation","Future","Commoditized",5
-"865",NA,"Steve Oswalt","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Highly Stable",1
+"865","Strategy Council","Steve Oswalt","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Highly Stable",1
 "866","Working Team","Thiago Matos","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Highly Stable",1
 "867","Working Team","Evgeny Zaytsev","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Somehewhat Unstable",4
 "868","Working Team","Hilary Jones","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Somehewhat Unstable",4
@@ -875,7 +875,7 @@
 "874","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Neutral",3
 "875","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Somewhat Stable",2
 "876","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q37","Price Stabiity","Current","Neutral",3
-"877",NA,"Steve Oswalt","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Highly Stable",1
+"877","Strategy Council","Steve Oswalt","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Highly Stable",1
 "878","Working Team","Thiago Matos","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Somewhat Stable",2
 "879","Working Team","Evgeny Zaytsev","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Somehewhat Unstable",4
 "880","Working Team","Hilary Jones","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Somehewhat Unstable",4
@@ -887,7 +887,7 @@
 "886","Strategy Council","Jean-Michel Ribieras","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Neutral",3
 "887","Strategy Council","Kristine Vela","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Somewhat Stable",2
 "888","Working Team","Jeff Monroe","Latin America","Conditions of Demand","Q37F","Price Stabiity","Future","Somehewhat Unstable",4
-"889",NA,"Steve Oswalt","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Some",4
+"889","Strategy Council","Steve Oswalt","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Some",4
 "890","Working Team","Thiago Matos","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Very Few",2
 "891","Working Team","Evgeny Zaytsev","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Some",4
 "892","Working Team","Hilary Jones","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Some",4
@@ -899,7 +899,7 @@
 "898","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Some",4
 "899","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Low",1
 "900","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q38","Reinvestment Barriers","Current","Some",4
-"901",NA,"Steve Oswalt","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","Some",4
+"901","Strategy Council","Steve Oswalt","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","Some",4
 "902","Working Team","Thiago Matos","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","Few",3
 "903","Working Team","Evgeny Zaytsev","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","Some",4
 "904","Working Team","Hilary Jones","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","Some",4
@@ -911,7 +911,7 @@
 "910","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","High",5
 "911","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","Low",1
 "912","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q38F","Reinvestment Barriers","Future","High",5
-"913",NA,"Steve Oswalt","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Very Little",1
+"913","Strategy Council","Steve Oswalt","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Very Little",1
 "914","Working Team","Thiago Matos","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Little",2
 "915","Working Team","Evgeny Zaytsev","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Little",2
 "916","Working Team","Hilary Jones","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Very Little",1
@@ -923,7 +923,7 @@
 "922","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Little",2
 "923","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Very Little",1
 "924","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q39","Excess Capacity","Current","Some",3
-"925",NA,"Steve Oswalt","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Very Little",1
+"925","Strategy Council","Steve Oswalt","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Very Little",1
 "926","Working Team","Thiago Matos","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Some",3
 "927","Working Team","Evgeny Zaytsev","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Little",2
 "928","Working Team","Hilary Jones","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Very Little",1
@@ -935,7 +935,7 @@
 "934","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Little",2
 "935","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Very Little",1
 "936","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q39F","Excess Capacity","Future","Substantial",4
-"937",NA,"Steve Oswalt","Latin America","Exit Barriers","Q40","Asset Age","Current","Few Old",2
+"937","Strategy Council","Steve Oswalt","Latin America","Exit Barriers","Q40","Asset Age","Current","Few Old",2
 "938","Working Team","Thiago Matos","Latin America","Exit Barriers","Q40","Asset Age","Current","Few Old",2
 "939","Working Team","Evgeny Zaytsev","Latin America","Exit Barriers","Q40","Asset Age","Current","Neutral",3
 "940","Working Team","Hilary Jones","Latin America","Exit Barriers","Q40","Asset Age","Current","Neutral",3
@@ -947,7 +947,7 @@
 "946","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q40","Asset Age","Current","Few Old",2
 "947","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q40","Asset Age","Current","Few New",4
 "948","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q40","Asset Age","Current","Neutral",3
-"949",NA,"Steve Oswalt","Latin America","Exit Barriers","Q40F","Asset Age","Future","Few Old",2
+"949","Strategy Council","Steve Oswalt","Latin America","Exit Barriers","Q40F","Asset Age","Future","Few Old",2
 "950","Working Team","Thiago Matos","Latin America","Exit Barriers","Q40F","Asset Age","Future","Mostly Old",1
 "951","Working Team","Evgeny Zaytsev","Latin America","Exit Barriers","Q40F","Asset Age","Future","Neutral",3
 "952","Working Team","Hilary Jones","Latin America","Exit Barriers","Q40F","Asset Age","Future","Neutral",3
@@ -959,7 +959,7 @@
 "958","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q40F","Asset Age","Future","Few Old",2
 "959","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q40F","Asset Age","Future","Few New",4
 "960","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q40F","Asset Age","Future","Few Old",2
-"961",NA,"Steve Oswalt","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Somewhat Difficult",4
+"961","Strategy Council","Steve Oswalt","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Somewhat Difficult",4
 "962","Working Team","Thiago Matos","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Difficult",5
 "963","Working Team","Evgeny Zaytsev","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Somewhat Difficult",4
 "964","Working Team","Hilary Jones","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Neutral",3
@@ -971,7 +971,7 @@
 "970","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Difficult",5
 "971","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Somewhat Easy",2
 "972","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q41","Resale Markets for Assets","Current","Somewhat Easy",2
-"973",NA,"Steve Oswalt","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Somewhat Difficult",4
+"973","Strategy Council","Steve Oswalt","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Somewhat Difficult",4
 "974","Working Team","Thiago Matos","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Difficult",5
 "975","Working Team","Evgeny Zaytsev","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Somewhat Difficult",4
 "976","Working Team","Hilary Jones","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Neutral",3
@@ -983,7 +983,7 @@
 "982","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Somewhat Difficult",4
 "983","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Somewhat Easy",2
 "984","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q41F","Resale Markets for Assets","Future","Neutral",3
-"985",NA,"Steve Oswalt","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Some",3
+"985","Strategy Council","Steve Oswalt","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Some",3
 "986","Working Team","Thiago Matos","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Some",3
 "987","Working Team","Evgeny Zaytsev","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Few",2
 "988","Working Team","Hilary Jones","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Some",3
@@ -995,7 +995,7 @@
 "994","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Few",2
 "995","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Mostly Standalone",1
 "996","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q42","Shared Facilities","Current","Some",3
-"997",NA,"Steve Oswalt","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Some",3
+"997","Strategy Council","Steve Oswalt","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Some",3
 "998","Working Team","Thiago Matos","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Some",3
 "999","Working Team","Evgeny Zaytsev","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Few",2
 "1000","Working Team","Hilary Jones","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Some",3
@@ -1007,7 +1007,7 @@
 "1006","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Few",2
 "1007","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Mostly Standalone",1
 "1008","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q42F","Shared Facilities","Future","Some",3
-"1009",NA,"Steve Oswalt","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Substantial",4
+"1009","Strategy Council","Steve Oswalt","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Substantial",4
 "1010","Working Team","Thiago Matos","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Very Substantial",5
 "1011","Working Team","Evgeny Zaytsev","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Very Substantial",5
 "1012","Working Team","Hilary Jones","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Some",3
@@ -1019,7 +1019,7 @@
 "1018","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Very Substantial",5
 "1019","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Very Little",1
 "1020","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q43","Vertical Integration","Current","Little",2
-"1021",NA,"Steve Oswalt","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Substantial",4
+"1021","Strategy Council","Steve Oswalt","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Substantial",4
 "1022","Working Team","Thiago Matos","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Very Substantial",5
 "1023","Working Team","Evgeny Zaytsev","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Very Substantial",5
 "1024","Working Team","Hilary Jones","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Some",3
@@ -1031,7 +1031,7 @@
 "1030","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Very Substantial",5
 "1031","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Very Little",1
 "1032","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q43F","Vertical Integration","Future","Little",2
-"1033",NA,"Steve Oswalt","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Very Few",2
+"1033","Strategy Council","Steve Oswalt","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Very Few",2
 "1034","Working Team","Thiago Matos","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Very Few",2
 "1035","Working Team","Evgeny Zaytsev","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Many",5
 "1036","Working Team","Hilary Jones","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Few",3
@@ -1043,7 +1043,7 @@
 "1042","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Some",4
 "1043","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Few",3
 "1044","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q44","Single Product Competitors","Current","Very Few",2
-"1045",NA,"Steve Oswalt","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Very Few",2
+"1045","Strategy Council","Steve Oswalt","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Very Few",2
 "1046","Working Team","Thiago Matos","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Very Few",2
 "1047","Working Team","Evgeny Zaytsev","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Many",5
 "1048","Working Team","Hilary Jones","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Few",3
@@ -1055,7 +1055,7 @@
 "1054","Strategy Council","Jean-Michel Ribieras","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Some",4
 "1055","Strategy Council","Kristine Vela","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Few",3
 "1056","Working Team","Jeff Monroe","Latin America","Exit Barriers","Q44F","Single Product Competitors","Future","Very Few",2
-"1057",NA,"Steve Oswalt","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Weak",2
+"1057","Strategy Council","Steve Oswalt","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Weak",2
 "1058","Working Team","Thiago Matos","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Weak",2
 "1059","Working Team","Evgeny Zaytsev","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Weak",2
 "1060","Working Team","Hilary Jones","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Neutral",3
@@ -1067,7 +1067,7 @@
 "1066","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Weak",2
 "1067","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Very Weak",1
 "1068","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q45","Customer Power","Current","Strong",4
-"1069",NA,"Steve Oswalt","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Weak",2
+"1069","Strategy Council","Steve Oswalt","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Weak",2
 "1070","Working Team","Thiago Matos","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Weak",2
 "1071","Working Team","Evgeny Zaytsev","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Weak",2
 "1072","Working Team","Hilary Jones","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Neutral",3
@@ -1079,7 +1079,7 @@
 "1078","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Weak",2
 "1079","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Very Weak",1
 "1080","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q45F","Customer Power","Future","Very Strong",5
-"1081",NA,"Steve Oswalt","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","Few",3
+"1081","Strategy Council","Steve Oswalt","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","Few",3
 "1082","Working Team","Thiago Matos","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","High",2
 "1083","Working Team","Evgeny Zaytsev","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","Very Minimal",5
 "1084","Working Team","Hilary Jones","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","Minimal",4
@@ -1091,7 +1091,7 @@
 "1090","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","High",2
 "1091","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","Few",3
 "1092","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q46","Customer Switching Costs","Current","Minimal",4
-"1093",NA,"Steve Oswalt","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","Few",3
+"1093","Strategy Council","Steve Oswalt","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","Few",3
 "1094","Working Team","Thiago Matos","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","High",2
 "1095","Working Team","Evgeny Zaytsev","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","Very Minimal",5
 "1096","Working Team","Hilary Jones","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","Minimal",4
@@ -1103,7 +1103,7 @@
 "1102","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","High",2
 "1103","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","Few",3
 "1104","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q46F","Customer Switching Costs","Future","Very Minimal",5
-"1105",NA,"Steve Oswalt","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Significant",1
+"1105","Strategy Council","Steve Oswalt","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Significant",1
 "1106","Working Team","Thiago Matos","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Some",2
 "1107","Working Team","Evgeny Zaytsev","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Significant",1
 "1108","Working Team","Hilary Jones","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Some",2
@@ -1115,7 +1115,7 @@
 "1114","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Some",2
 "1115","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Significant",1
 "1116","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q47","Economies of Scale","Current","Some",2
-"1117",NA,"Steve Oswalt","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Significant",1
+"1117","Strategy Council","Steve Oswalt","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Significant",1
 "1118","Working Team","Thiago Matos","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Some",2
 "1119","Working Team","Evgeny Zaytsev","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Significant",1
 "1120","Working Team","Hilary Jones","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Some",2
@@ -1127,7 +1127,7 @@
 "1126","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Significant",1
 "1127","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Significant",1
 "1128","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q47F","Economies of Scale","Future","Significant",1
-"1129",NA,"Steve Oswalt","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Highly Concentrated",5
+"1129","Strategy Council","Steve Oswalt","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Highly Concentrated",5
 "1130","Working Team","Thiago Matos","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Highly Concentrated",5
 "1131","Working Team","Evgeny Zaytsev","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Highly Concentrated",5
 "1132","Working Team","Hilary Jones","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Balanced",3
@@ -1139,7 +1139,7 @@
 "1138","Strategy Council","Jean-Michel Ribieras","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Concentrated",4
 "1139","Strategy Council","Kristine Vela","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Highly Concentrated",5
 "1140","Working Team","Jeff Monroe","Latin America","Rivalry Determinants","Q48","Number of Competitors","Current","Highly Concentrated",5
-"1141",NA,"Steve Oswalt","Latin America","Rivalry Determinants","Q48F","Number of Competitors","Future","Highly Concentrated",5
+"1141","Strategy Council","Steve Oswalt","Latin America","Rivalry Determinants","Q48F","Number of Competitors","Future","Highly Concentrated",5
 "1142","Working Team","Thiago Matos","Latin America","Rivalry Determinants","Q48F","Number of Competitors","Future","Highly Concentrated",5
 "1143","Working Team","Evgeny Zaytsev","Latin America","Rivalry Determinants","Q48F","Number of Competitors","Future","Highly Concentrated",5
 "1144","Working Team","Hilary Jones","Latin America","Rivalry Determinants","Q48F","Number of Competitors","Future","Balanced",3
