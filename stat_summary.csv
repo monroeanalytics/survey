@@ -1,58 +1,58 @@
 "","Group","Cohort","Region","Structural.Factor","Question","Period","Mean","TrMean","Median","Min","Max","SD","Range"
-"1","Region + Period","","Latin America","","","Current",2.72916666666667,2.66233766233766,3,1,5,1.17992959827845,4
-"2","Region + Period","","Latin America","","","Future",2.81770833333333,2.77272727272727,3,1,5,1.20344138226939,4
-"3","Region + Period","","North America","","","Current",2.96875,2.99350649350649,3,1,5,1.0776465049026,4
-"4","Region + Period","","North America","","","Future",3.04166666666667,3.05194805194805,3,1,5,1.21437003828233,4
-"5","Region + Period","","Western Europe","","","Current",2.96875,3.01298701298701,3,1,5,1.00212470616265,4
-"6","Region + Period","","Western Europe","","","Future",3,3.01948051948052,3,1,5,1.11627653313564,4
-"7","Cohort + Region + Period","Strategy Council","Latin America","","","Current",2.5625,2.48717948717949,2,1,5,1.18599281084179,4
-"8","Cohort + Region + Period","Strategy Council","Latin America","","","Future",2.59375,2.53846153846154,3,1,5,1.17498600215626,4
-"9","Cohort + Region + Period","Strategy Council","North America","","","Current",2.9375,2.94871794871795,3,1,5,1.14075229102276,4
-"10","Cohort + Region + Period","Strategy Council","North America","","","Future",2.96875,2.96153846153846,3,1,5,1.18279886620454,4
-"11","Cohort + Region + Period","Strategy Council","Western Europe","","","Current",2.84375,2.85897435897436,3,1,5,1.07926022421793,4
-"12","Cohort + Region + Period","Strategy Council","Western Europe","","","Future",2.88541666666667,2.88461538461538,3,1,5,1.11326727926753,4
+"1","Region + Period","","Latin America","","","Current",2.71153846153846,2.64285714285714,3,1,5,1.17685470372627,4
+"2","Region + Period","","Latin America","","","Future",2.78365384615385,2.73214285714286,3,1,5,1.20238174080163,4
+"3","Region + Period","","North America","","","Current",2.96634615384615,2.99404761904762,3,1,5,1.05125740923345,4
+"4","Region + Period","","North America","","","Future",3.08173076923077,3.10119047619048,3,1,5,1.19096959833971,4
+"5","Region + Period","","Western Europe","","","Current",2.95673076923077,2.99404761904762,3,1,5,0.979526102818001,4
+"6","Region + Period","","Western Europe","","","Future",3.02884615384615,3.05357142857143,3,1,5,1.09418074944175,4
+"7","Cohort + Region + Period","Strategy Council","Latin America","","","Current",2.55357142857143,2.47777777777778,2,1,5,1.17664422596282,4
+"8","Cohort + Region + Period","Strategy Council","Latin America","","","Future",2.5625,2.5,2,1,5,1.16851526645052,4
+"9","Cohort + Region + Period","Strategy Council","North America","","","Current",2.9375,2.96666666666667,3,1,5,1.08454540649008,4
+"10","Cohort + Region + Period","Strategy Council","North America","","","Future",3.05357142857143,3.06666666666667,3,1,5,1.14560881736287,4
+"11","Cohort + Region + Period","Strategy Council","Western Europe","","","Current",2.83928571428571,2.86666666666667,3,1,5,1.02714132670208,4
+"12","Cohort + Region + Period","Strategy Council","Western Europe","","","Future",2.95535714285714,2.97777777777778,3,1,5,1.07710316249244,4
 "13","Cohort + Region + Period","Working Team","Latin America","","","Current",2.89583333333333,2.84615384615385,3,1,5,1.15602919892706,4
 "14","Cohort + Region + Period","Working Team","Latin America","","","Future",3.04166666666667,3.02564102564103,3,1,5,1.19575271749786,4
 "15","Cohort + Region + Period","Working Team","North America","","","Current",3,2.98717948717949,3,1,5,1.01566675015402,4
 "16","Cohort + Region + Period","Working Team","North America","","","Future",3.11458333333333,3.14102564102564,3,1,5,1.24705794122484,4
 "17","Cohort + Region + Period","Working Team","Western Europe","","","Current",3.09375,3.1025641025641,3,1,5,0.907026663566762,4
 "18","Cohort + Region + Period","Working Team","Western Europe","","","Future",3.11458333333333,3.14102564102564,3,1,5,1.11326727926753,4
-"19","Region + Structural Factor + Period","","Latin America","Conditions of Demand","","Current",2.35,2.27083333333333,2,1,5,1.05485158406611,4
-"20","Region + Structural Factor + Period","","Latin America","Conditions of Demand","","Future",2.53333333333333,2.47916666666667,2,1,5,1.11182651168714,4
-"21","Region + Structural Factor + Period","","Latin America","Exit Barriers","","Current",2.88095238095238,2.85294117647059,3,1,5,1.14497079359564,4
-"22","Region + Structural Factor + Period","","Latin America","Exit Barriers","","Future",2.95238095238095,2.94117647058824,3,1,5,1.12907641011305,4
-"23","Region + Structural Factor + Period","","Latin America","Rivalry Determinants","","Current",2.9375,2.925,3,1,5,1.29493694909353,4
-"24","Region + Structural Factor + Period","","Latin America","Rivalry Determinants","","Future",2.9375,2.925,3,1,5,1.39002908281224,4
-"25","Region + Structural Factor + Period","","North America","Conditions of Demand","","Current",2.76666666666667,2.79166666666667,3,1,5,0.963163338078858,4
-"26","Region + Structural Factor + Period","","North America","Conditions of Demand","","Future",2.75,2.6875,2.5,1,5,1.00211640448383,4
-"27","Region + Structural Factor + Period","","North America","Exit Barriers","","Current",3.01190476190476,3.01470588235294,3,1,5,1.13534716965327,4
-"28","Region + Structural Factor + Period","","North America","Exit Barriers","","Future",3.13095238095238,3.16176470588235,3,1,5,1.28737860023993,4
-"29","Region + Structural Factor + Period","","North America","Rivalry Determinants","","Current",3.14583333333333,3.175,3,1,5,1.0913505849592,4
-"30","Region + Structural Factor + Period","","North America","Rivalry Determinants","","Future",3.25,3.3,3,1,5,1.27996010576128,4
-"31","Region + Structural Factor + Period","","Western Europe","Conditions of Demand","","Current",3.01666666666667,3.04166666666667,3,1,5,0.911167376885589,4
-"32","Region + Structural Factor + Period","","Western Europe","Conditions of Demand","","Future",2.91666666666667,2.95833333333333,3,1,5,0.94405663911288,4
-"33","Region + Structural Factor + Period","","Western Europe","Exit Barriers","","Current",3.03571428571429,3.08823529411765,3,1,5,1.06924619964539,4
-"34","Region + Structural Factor + Period","","Western Europe","Exit Barriers","","Future",3.04761904761905,3.05882352941176,3,1,5,1.27916352473259,4
-"35","Region + Structural Factor + Period","","Western Europe","Rivalry Determinants","","Current",2.79166666666667,2.8,3,1,5,0.988407989956541,4
-"36","Region + Structural Factor + Period","","Western Europe","Rivalry Determinants","","Future",3.02083333333333,3.05,3,1,5,1.02083785640914,4
-"37","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Current",2.16666666666667,2.04166666666667,2,1,5,1.08543121363826,4
-"38","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Future",2.3,2.20833333333333,2,1,5,1.11880478097434,4
-"39","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Current",2.76190476190476,2.73529411764706,3,1,5,1.18547147787487,4
-"40","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Future",2.76190476190476,2.76470588235294,3,1,5,1.14358281258729,4
-"41","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Rivalry Determinants","","Current",2.70833333333333,2.65,3,1,5,1.23285341230492,4
-"42","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Rivalry Determinants","","Future",2.66666666666667,2.6,3,1,5,1.27404411454121,4
-"43","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Current",2.83333333333333,2.83333333333333,3,1,5,1.05318346089314,4
-"44","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Future",2.73333333333333,2.625,2.5,2,5,0.868344970910609,3
-"45","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Current",2.95238095238095,2.94117647058824,3,1,5,1.2484601432903,4
-"46","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Future",3.02380952380952,3.02941176470588,3,1,5,1.37020730562747,4
-"47","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Rivalry Determinants","","Current",3.04166666666667,3.1,3,1,5,1.08263634211833,4
-"48","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Rivalry Determinants","","Future",3.16666666666667,3.2,3,1,5,1.16718415024353,4
-"49","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Current",2.93333333333333,2.95833333333333,3,1,5,0.907187139319736,4
-"50","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Future",2.86666666666667,2.83333333333333,3,1,5,0.860366134304153,4
-"51","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Current",2.85714285714286,2.82352941176471,3,1,5,1.2604960032527,4
-"52","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Future",2.85714285714286,2.82352941176471,3,1,5,1.35379193868202,4
-"53","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Rivalry Determinants","","Current",2.70833333333333,2.75,3,1,4,0.954584665735822,3
-"54","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Rivalry Determinants","","Future",2.95833333333333,3.05,3,1,4,0.954584665735822,3
+"19","Region + Structural Factor + Period","","Latin America","Conditions of Demand","","Current",2.29230769230769,2.20754716981132,2,1,5,1.04167948710059,4
+"20","Region + Structural Factor + Period","","Latin America","Conditions of Demand","","Future",2.46153846153846,2.39622641509434,2,1,5,1.10505829988913,4
+"21","Region + Structural Factor + Period","","Latin America","Exit Barriers","","Current",2.89010989010989,2.87671232876712,3,1,5,1.12990215358626,4
+"22","Region + Structural Factor + Period","","Latin America","Exit Barriers","","Future",2.93406593406593,2.93150684931507,3,1,5,1.12350837214106,4
+"23","Region + Structural Factor + Period","","Latin America","Rivalry Determinants","","Current",2.92307692307692,2.9047619047619,3,1,5,1.29624123036576,4
+"24","Region + Structural Factor + Period","","Latin America","Rivalry Determinants","","Future",2.92307692307692,2.9047619047619,3,1,5,1.38402870091166,4
+"25","Region + Structural Factor + Period","","North America","Conditions of Demand","","Current",2.72307692307692,2.73584905660377,3,1,5,0.943856654696774,4
+"26","Region + Structural Factor + Period","","North America","Conditions of Demand","","Future",2.76923076923077,2.71698113207547,3,1,5,0.964514624844259,4
+"27","Region + Structural Factor + Period","","North America","Exit Barriers","","Current",3.04395604395604,3.06849315068493,3,1,5,1.10465769370816,4
+"28","Region + Structural Factor + Period","","North America","Exit Barriers","","Future",3.17582417582418,3.21917808219178,3,1,5,1.27011291355801,4
+"29","Region + Structural Factor + Period","","North America","Rivalry Determinants","","Current",3.13461538461538,3.16666666666667,3,1,5,1.04841329513018,4
+"30","Region + Structural Factor + Period","","North America","Rivalry Determinants","","Future",3.30769230769231,3.38095238095238,3.5,1,5,1.24520195288519,4
+"31","Region + Structural Factor + Period","","Western Europe","Conditions of Demand","","Current",2.96923076923077,2.9811320754717,3,1,5,0.900854295398796,4
+"32","Region + Structural Factor + Period","","Western Europe","Conditions of Demand","","Future",2.92307692307692,2.9622641509434,3,1,5,0.923777778805804,4
+"33","Region + Structural Factor + Period","","Western Europe","Exit Barriers","","Current",3.04395604395604,3.10958904109589,3,1,5,1.03184934206165,4
+"34","Region + Structural Factor + Period","","Western Europe","Exit Barriers","","Future",3.07692307692308,3.0958904109589,3,1,5,1.24034734589208,4
+"35","Region + Structural Factor + Period","","Western Europe","Rivalry Determinants","","Current",2.78846153846154,2.80952380952381,3,1,5,0.976920701651487,4
+"36","Region + Structural Factor + Period","","Western Europe","Rivalry Determinants","","Future",3.07692307692308,3.11904761904762,3,1,5,1.02605572310084,4
+"37","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Current",2.08571428571429,1.96551724137931,2,1,5,1.03955387975206,4
+"38","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Future",2.2,2.10344827586207,2,1,5,1.07921540127675,4
+"39","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Current",2.79591836734694,2.78048780487805,3,1,5,1.15433227157404,4
+"40","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Future",2.75510204081633,2.75609756097561,3,1,5,1.12787802688829,4
+"41","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Rivalry Determinants","","Current",2.71428571428571,2.66666666666667,2.5,1,5,1.24296964764774,4
+"42","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Rivalry Determinants","","Future",2.67857142857143,2.625,2.5,1,5,1.27812279676011,4
+"43","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Current",2.74285714285714,2.72413793103448,3,1,5,1.01003369608488,4
+"44","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Future",2.77142857142857,2.68965517241379,3,2,5,0.807527609643246,3
+"45","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Current",3.02040816326531,3.02439024390244,3,1,5,1.18127395775294,4
+"46","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Future",3.12244897959184,3.14634146341463,3,1,5,1.33280176478638,4
+"47","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Rivalry Determinants","","Current",3.03571428571429,3.08333333333333,3,1,5,0.999338405484973,4
+"48","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Rivalry Determinants","","Future",3.28571428571429,3.33333333333333,4,1,5,1.1174422797967,4
+"49","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Current",2.85714285714286,2.86206896551724,3,1,5,0.879266309884257,4
+"50","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Future",2.88571428571429,2.86206896551724,3,1,5,0.832127979814353,4
+"51","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Current",2.89795918367347,2.8780487804878,3,1,5,1.17694693237743,4
+"52","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Future",2.93877551020408,2.92682926829268,3,1,5,1.28140813276687,4
+"53","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Rivalry Determinants","","Current",2.71428571428571,2.75,3,1,4,0.937180280579398,3
+"54","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Rivalry Determinants","","Future",3.07142857142857,3.125,3,1,5,0.978607151860213,4
 "55","Cohort + Region + Structural Factor + Period","Working Team","Latin America","Conditions of Demand","","Current",2.53333333333333,2.5,2,1,5,1.00801386598746,4
 "56","Cohort + Region + Structural Factor + Period","Working Team","Latin America","Conditions of Demand","","Future",2.76666666666667,2.75,3,1,5,1.07264845715811,4
 "57","Cohort + Region + Structural Factor + Period","Working Team","Latin America","Exit Barriers","","Current",3,2.94117647058824,3,1,5,1.10431526074847,4
@@ -71,102 +71,102 @@
 "70","Cohort + Region + Structural Factor + Period","Working Team","Western Europe","Exit Barriers","","Future",3.23809523809524,3.29411764705882,3,1,5,1.18547147787487,4
 "71","Cohort + Region + Structural Factor + Period","Working Team","Western Europe","Rivalry Determinants","","Current",2.875,2.85,3,1,5,1.03472323541759,4
 "72","Cohort + Region + Structural Factor + Period","Working Team","Western Europe","Rivalry Determinants","","Future",3.08333333333333,3.1,3,1,5,1.10006587418037,4
-"73","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Current",2,2,1.5,1,4,1.26491106406735,3
-"74","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Future",2.16666666666667,2.16666666666667,2,1,4,1.32916013582513,3
-"75","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Current",2.16666666666667,2.16666666666667,2,2,3,0.408248290463863,1
-"76","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Future",2.33333333333333,2.33333333333333,2,2,3,0.516397779494322,1
-"77","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Current",1.83333333333333,1.83333333333333,2,1,3,0.752772652709081,2
-"78","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Future",1.83333333333333,1.83333333333333,2,1,3,0.752772652709081,2
-"79","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Current",3.33333333333333,3.33333333333333,3.5,2,5,1.211060141639,3
-"80","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Future",3.33333333333333,3.33333333333333,3.5,2,5,1.211060141639,3
-"81","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Current",1.5,1.5,1,1,3,0.836660026534076,2
-"82","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Future",1.83333333333333,1.83333333333333,1.5,1,4,1.16904519445001,3
-"83","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Current",2.5,2.5,2,1,4,1.22474487139159,3
-"84","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Future",2.33333333333333,2.33333333333333,2,1,4,1.03279555898864,3
-"85","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Current",1.83333333333333,1.83333333333333,1.5,1,3,0.983192080250175,2
-"86","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Future",1.83333333333333,1.83333333333333,1.5,1,3,0.983192080250175,2
-"87","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Current",3,3,3.5,1,4,1.26491106406735,3
-"88","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Future",3.33333333333333,3.33333333333333,3.5,1,5,1.36626010212795,4
-"89","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Current",3.5,3.5,3.5,2,5,1.37840487520902,3
-"90","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Future",3.33333333333333,3.33333333333333,4,2,4,1.03279555898864,2
-"91","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Current",2.33333333333333,2.33333333333333,2.5,1,3,0.816496580927726,2
-"92","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Future",2.33333333333333,2.33333333333333,2.5,1,3,0.816496580927726,2
-"93","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Current",3,3,3,2,4,0.632455532033676,2
-"94","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Future",3,3,3,2,4,0.632455532033676,2
-"95","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Current",3.16666666666667,3.16666666666667,3.5,1,5,1.47196014438797,4
-"96","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Future",3.16666666666667,3.16666666666667,3.5,1,5,1.47196014438797,4
-"97","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Rivalry Determinants","","Current",2.16666666666667,2.16666666666667,2,1,3,0.752772652709081,2
-"98","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Rivalry Determinants","","Future",2.16666666666667,2.16666666666667,2,1,3,0.752772652709081,2
-"99","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Rivalry Determinants","","Current",2.66666666666667,2.66666666666667,3,2,3,0.516397779494322,1
-"100","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Rivalry Determinants","","Future",2.66666666666667,2.66666666666667,3,2,3,0.516397779494322,1
-"101","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Rivalry Determinants","","Current",1.66666666666667,1.66666666666667,1.5,1,3,0.816496580927726,2
-"102","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Rivalry Determinants","","Future",1.5,1.5,1,1,3,0.836660026534076,2
-"103","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Rivalry Determinants","","Current",4.33333333333333,4.33333333333333,4.5,3,5,0.816496580927726,2
-"104","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Rivalry Determinants","","Future",4.33333333333333,4.33333333333333,4.5,3,5,0.816496580927726,2
-"105","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Current",2.5,2.5,2.5,1,5,1.51657508881031,4
-"106","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Future",2.5,2.5,2.5,2,3,0.547722557505166,1
-"107","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Current",2.5,2.5,2.5,2,3,0.547722557505166,1
-"108","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Future",2.5,2.5,2.5,2,3,0.547722557505166,1
-"109","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Current",2.16666666666667,2.16666666666667,2,1,3,0.752772652709081,2
-"110","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Future",2,2,2,2,2,0,0
-"111","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Current",4,4,4,3,5,0.632455532033676,2
-"112","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Future",4,4,4,3,5,0.632455532033676,2
-"113","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Current",3,3,3,2,4,0.632455532033676,2
-"114","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Future",2.66666666666667,2.66666666666667,2.5,2,4,0.816496580927726,2
-"115","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Current",1.5,1.5,1,1,3,0.836660026534076,2
-"116","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Future",1.66666666666667,1.66666666666667,1,1,4,1.211060141639,3
-"117","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Current",3.16666666666667,3.16666666666667,3,3,4,0.408248290463863,1
-"118","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Future",3.16666666666667,3.16666666666667,3,2,4,0.752772652709081,2
-"119","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Current",4,4,4,3,5,0.632455532033676,2
-"120","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Future",4.33333333333333,4.33333333333333,4,4,5,0.516397779494322,1
-"121","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Current",3.83333333333333,3.83333333333333,4,2,5,1.16904519445001,3
-"122","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Future",4,4,4.5,2,5,1.26491106406735,3
-"123","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Current",2.83333333333333,2.83333333333333,3,1,5,1.60208197875972,4
-"124","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Future",2.5,2.5,2,1,5,1.7606816861659,4
-"125","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Current",2.83333333333333,2.83333333333333,3,2,4,0.752772652709081,2
-"126","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Future",2.83333333333333,2.83333333333333,3,2,3,0.408248290463863,1
-"127","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Current",2.5,2.5,2.5,1,4,1.37840487520902,3
-"128","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Future",2.66666666666667,2.66666666666667,3,1,4,1.50554530541816,3
-"129","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Rivalry Determinants","","Current",3.33333333333333,3.33333333333333,3.5,2,4,0.816496580927726,2
-"130","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Rivalry Determinants","","Future",3.66666666666667,3.66666666666667,4,3,4,0.516397779494322,1
-"131","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Rivalry Determinants","","Current",3.16666666666667,3.16666666666667,3,3,4,0.408248290463863,1
-"132","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Rivalry Determinants","","Future",3,3,3,2,4,0.632455532033676,2
-"133","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Rivalry Determinants","","Current",1.66666666666667,1.66666666666667,1.5,1,3,0.816496580927726,2
-"134","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Rivalry Determinants","","Future",1.66666666666667,1.66666666666667,1.5,1,3,0.816496580927726,2
-"135","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Rivalry Determinants","","Current",4,4,4,3,5,0.632455532033676,2
-"136","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Rivalry Determinants","","Future",4.33333333333333,4.33333333333333,4,4,5,0.516397779494322,1
-"137","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Current",2.16666666666667,2.16666666666667,2.5,1,3,0.983192080250175,2
-"138","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Future",2.66666666666667,2.66666666666667,2.5,1,4,1.211060141639,3
-"139","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Current",2.66666666666667,2.66666666666667,3,2,3,0.516397779494322,1
-"140","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Future",2.66666666666667,2.66666666666667,3,2,3,0.516397779494322,1
-"141","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Current",3,3,3,2,4,0.894427190999916,2
-"142","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Future",2.5,2.5,2.5,2,3,0.547722557505166,1
-"143","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Current",3.66666666666667,3.66666666666667,4,2,5,1.03279555898864,3
-"144","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Future",3.66666666666667,3.66666666666667,4,2,5,1.03279555898864,3
-"145","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Current",3.16666666666667,3.16666666666667,3,3,4,0.408248290463863,1
-"146","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Future",2.83333333333333,2.83333333333333,3,2,3,0.408248290463863,1
-"147","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Current",1.5,1.5,1,1,3,0.836660026534076,2
-"148","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Future",1.33333333333333,1.33333333333333,1,1,2,0.516397779494322,1
-"149","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Current",3.33333333333333,3.33333333333333,3,3,4,0.516397779494322,1
-"150","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Future",2.83333333333333,2.83333333333333,2.5,2,4,0.983192080250175,2
-"151","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Current",3.66666666666667,3.66666666666667,4,2,5,1.03279555898864,3
-"152","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Future",4,4,4,3,5,0.894427190999916,2
-"153","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Current",3.83333333333333,3.83333333333333,4,2,5,1.16904519445001,3
-"154","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Future",4,4,4.5,2,5,1.26491106406735,3
-"155","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Current",2.66666666666667,2.66666666666667,2.5,1,5,1.63299316185545,4
-"156","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Future",2.66666666666667,2.66666666666667,2.5,1,5,1.63299316185545,4
-"157","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Current",2.66666666666667,2.66666666666667,3,1,3,0.816496580927726,2
-"158","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Future",2.66666666666667,2.66666666666667,3,1,3,0.816496580927726,2
-"159","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Current",2.33333333333333,2.33333333333333,2.5,1,4,1.211060141639,3
-"160","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Future",2.5,2.5,2.5,1,4,1.37840487520902,3
-"161","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Rivalry Determinants","","Current",3.33333333333333,3.33333333333333,3,3,4,0.516397779494322,1
-"162","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Rivalry Determinants","","Future",3.33333333333333,3.33333333333333,3,3,4,0.516397779494322,1
-"163","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Rivalry Determinants","","Current",3.33333333333333,3.33333333333333,3,3,4,0.516397779494322,1
-"164","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Rivalry Determinants","","Future",3.16666666666667,3.16666666666667,3,3,4,0.408248290463863,1
-"165","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Rivalry Determinants","","Current",1.66666666666667,1.66666666666667,1.5,1,3,0.816496580927726,2
-"166","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Rivalry Determinants","","Future",1.66666666666667,1.66666666666667,1.5,1,3,0.816496580927726,2
-"167","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Rivalry Determinants","","Current",2.5,2.5,2,2,4,0.836660026534076,2
-"168","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Rivalry Determinants","","Future",3.66666666666667,3.66666666666667,4,3,4,0.516397779494322,1
+"73","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Current",2,2,2,1,4,1.15470053837925,3
+"74","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Future",2.14285714285714,2.14285714285714,2,1,4,1.21498579258791,3
+"75","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Current",2.14285714285714,2.14285714285714,2,2,3,0.377964473009227,1
+"76","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Future",2.28571428571429,2.28571428571429,2,2,3,0.487950036474267,1
+"77","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Current",1.85714285714286,1.85714285714286,2,1,3,0.690065559342354,2
+"78","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Future",1.85714285714286,1.85714285714286,2,1,3,0.690065559342354,2
+"79","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Current",3,3,3,1,5,1.4142135623731,4
+"80","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Future",3,3,3,1,5,1.4142135623731,4
+"81","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Current",1.42857142857143,1.42857142857143,1,1,3,0.786795792469443,2
+"82","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Conditions of Demand","","Future",1.71428571428571,1.71428571428571,1,1,4,1.11269728052837,3
+"83","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Current",2.57142857142857,2.57142857142857,2,1,4,1.13389341902768,3
+"84","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Future",2.28571428571429,2.28571428571429,2,1,4,0.951189731211342,3
+"85","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Current",1.71428571428571,1.71428571428571,1,1,3,0.951189731211342,2
+"86","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Future",1.71428571428571,1.71428571428571,1,1,3,0.951189731211342,2
+"87","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Current",3.14285714285714,3.14285714285714,4,1,4,1.21498579258791,3
+"88","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Future",3.42857142857143,3.42857142857143,4,1,5,1.2724180205607,4
+"89","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Current",3.42857142857143,3.42857142857143,3,2,5,1.2724180205607,3
+"90","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Future",3.14285714285714,3.14285714285714,4,2,4,1.0690449676497,2
+"91","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Current",2.57142857142857,2.57142857142857,3,1,4,0.975900072948533,3
+"92","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Future",2.57142857142857,2.57142857142857,3,1,4,0.975900072948533,3
+"93","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Current",3,3,3,2,4,0.577350269189626,2
+"94","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Future",3,3,3,2,4,0.577350269189626,2
+"95","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Current",3.14285714285714,3.14285714285714,3,1,5,1.3451854182691,4
+"96","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Exit Barriers","","Future",3.14285714285714,3.14285714285714,3,1,5,1.3451854182691,4
+"97","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Rivalry Determinants","","Current",2.14285714285714,2.14285714285714,2,1,3,0.690065559342354,2
+"98","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Rivalry Determinants","","Future",2.14285714285714,2.14285714285714,2,1,3,0.690065559342354,2
+"99","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Rivalry Determinants","","Current",2.57142857142857,2.57142857142857,3,2,3,0.534522483824849,1
+"100","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Rivalry Determinants","","Future",2.57142857142857,2.57142857142857,3,2,3,0.534522483824849,1
+"101","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Rivalry Determinants","","Current",1.71428571428571,1.71428571428571,2,1,3,0.755928946018454,2
+"102","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Rivalry Determinants","","Future",1.57142857142857,1.57142857142857,1,1,3,0.786795792469443,2
+"103","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Rivalry Determinants","","Current",4.42857142857143,4.42857142857143,5,3,5,0.786795792469443,2
+"104","Cohort + Region + Structural Factor + Period","Strategy Council","Latin America","Rivalry Determinants","","Future",4.42857142857143,4.42857142857143,5,3,5,0.786795792469443,2
+"105","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Current",2.42857142857143,2.42857142857143,2,1,5,1.39727626201154,4
+"106","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Future",2.57142857142857,2.57142857142857,3,2,3,0.534522483824849,1
+"107","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Current",2.57142857142857,2.57142857142857,3,2,3,0.534522483824849,1
+"108","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Future",2.57142857142857,2.57142857142857,3,2,3,0.534522483824849,1
+"109","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Current",2.14285714285714,2.14285714285714,2,1,3,0.690065559342354,2
+"110","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Future",2.14285714285714,2.14285714285714,2,2,3,0.377964473009227,1
+"111","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Current",3.71428571428571,3.71428571428571,4,2,5,0.951189731211342,3
+"112","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Future",3.85714285714286,3.85714285714286,4,3,5,0.690065559342354,2
+"113","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Current",2.85714285714286,2.85714285714286,3,2,4,0.690065559342354,2
+"114","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Conditions of Demand","","Future",2.71428571428571,2.71428571428571,3,2,4,0.755928946018454,2
+"115","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Current",1.71428571428571,1.71428571428571,1,1,3,0.951189731211342,2
+"116","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Future",1.85714285714286,1.85714285714286,1,1,4,1.21498579258791,3
+"117","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Current",3.14285714285714,3.14285714285714,3,3,4,0.377964473009227,1
+"118","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Future",3.28571428571429,3.28571428571429,3,2,4,0.755928946018454,2
+"119","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Current",4,4,4,3,5,0.577350269189626,2
+"120","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Future",4.42857142857143,4.42857142857143,4,4,5,0.534522483824849,1
+"121","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Current",3.85714285714286,3.85714285714286,4,2,5,1.0690449676497,3
+"122","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Future",4.14285714285714,4.14285714285714,5,2,5,1.21498579258791,3
+"123","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Current",3,3,3,1,5,1.52752523165195,4
+"124","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Future",2.57142857142857,2.57142857142857,3,1,5,1.61834718742537,4
+"125","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Current",2.85714285714286,2.85714285714286,3,2,4,0.690065559342354,2
+"126","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Future",2.85714285714286,2.85714285714286,3,2,3,0.377964473009227,1
+"127","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Current",2.57142857142857,2.57142857142857,3,1,4,1.2724180205607,3
+"128","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Exit Barriers","","Future",2.71428571428571,2.71428571428571,3,1,4,1.38013111868471,3
+"129","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Rivalry Determinants","","Current",3.28571428571429,3.28571428571429,3,2,4,0.755928946018454,2
+"130","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Rivalry Determinants","","Future",3.71428571428571,3.71428571428571,4,3,4,0.487950036474267,1
+"131","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Rivalry Determinants","","Current",3.14285714285714,3.14285714285714,3,3,4,0.377964473009227,1
+"132","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Rivalry Determinants","","Future",3.14285714285714,3.14285714285714,3,2,4,0.690065559342354,2
+"133","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Rivalry Determinants","","Current",1.85714285714286,1.85714285714286,2,1,3,0.899735410842437,2
+"134","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Rivalry Determinants","","Future",2,2,2,1,4,1.15470053837925,3
+"135","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Rivalry Determinants","","Current",3.85714285714286,3.85714285714286,4,3,5,0.690065559342354,2
+"136","Cohort + Region + Structural Factor + Period","Strategy Council","North America","Rivalry Determinants","","Future",4.28571428571429,4.28571428571429,4,4,5,0.487950036474267,1
+"137","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Current",2.14285714285714,2.14285714285714,2,1,3,0.899735410842437,2
+"138","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Future",2.57142857142857,2.57142857142857,2,1,4,1.13389341902768,3
+"139","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Current",2.71428571428571,2.71428571428571,3,2,3,0.487950036474267,1
+"140","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Future",2.71428571428571,2.71428571428571,3,2,3,0.487950036474267,1
+"141","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Current",2.85714285714286,2.85714285714286,3,2,4,0.899735410842437,2
+"142","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Future",2.57142857142857,2.57142857142857,3,2,3,0.534522483824849,1
+"143","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Current",3.42857142857143,3.42857142857143,4,2,5,1.13389341902768,3
+"144","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Future",3.57142857142857,3.57142857142857,4,2,5,0.975900072948533,3
+"145","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Current",3.14285714285714,3.14285714285714,3,3,4,0.377964473009227,1
+"146","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Conditions of Demand","","Future",3,3,3,2,4,0.577350269189626,2
+"147","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Current",1.71428571428571,1.71428571428571,1,1,3,0.951189731211342,2
+"148","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Future",1.57142857142857,1.57142857142857,1,1,3,0.786795792469443,2
+"149","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Current",3.28571428571429,3.28571428571429,3,3,4,0.487950036474267,1
+"150","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Future",3,3,3,2,4,1,2
+"151","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Current",3.57142857142857,3.57142857142857,4,2,5,0.975900072948533,3
+"152","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Future",4,4,4,3,5,0.816496580927726,2
+"153","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Current",3.71428571428571,3.71428571428571,4,2,5,1.11269728052837,3
+"154","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Future",4,4,4,2,5,1.15470053837925,3
+"155","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Current",2.85714285714286,2.85714285714286,3,1,5,1.57359158493889,4
+"156","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Future",2.71428571428571,2.71428571428571,3,1,5,1.49602648308619,4
+"157","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Current",2.71428571428571,2.71428571428571,3,1,3,0.755928946018454,2
+"158","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Future",2.71428571428571,2.71428571428571,3,1,3,0.755928946018454,2
+"159","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Current",2.42857142857143,2.42857142857143,3,1,4,1.13389341902768,3
+"160","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Exit Barriers","","Future",2.57142857142857,2.57142857142857,3,1,4,1.2724180205607,3
+"161","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Rivalry Determinants","","Current",3.42857142857143,3.42857142857143,3,3,4,0.534522483824849,1
+"162","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Rivalry Determinants","","Future",3.57142857142857,3.57142857142857,3,3,5,0.786795792469443,2
+"163","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Rivalry Determinants","","Current",3.14285714285714,3.14285714285714,3,2,4,0.690065559342354,2
+"164","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Rivalry Determinants","","Future",3.14285714285714,3.14285714285714,3,3,4,0.377964473009227,1
+"165","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Rivalry Determinants","","Current",1.85714285714286,1.85714285714286,2,1,3,0.899735410842437,2
+"166","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Rivalry Determinants","","Future",2,2,2,1,4,1.15470053837925,3
+"167","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Rivalry Determinants","","Current",2.42857142857143,2.42857142857143,2,2,4,0.786795792469443,2
+"168","Cohort + Region + Structural Factor + Period","Strategy Council","Western Europe","Rivalry Determinants","","Future",3.57142857142857,3.57142857142857,4,3,4,0.534522483824849,1
 "169","Cohort + Region + Structural Factor + Period","Working Team","Latin America","Conditions of Demand","","Current",2.83333333333333,2.83333333333333,3,2,4,0.752772652709081,2
 "170","Cohort + Region + Structural Factor + Period","Working Team","Latin America","Conditions of Demand","","Future",2.83333333333333,2.83333333333333,3,1,4,0.983192080250175,3
 "171","Cohort + Region + Structural Factor + Period","Working Team","Latin America","Conditions of Demand","","Current",2.5,2.5,2.5,2,3,0.547722557505166,1
@@ -263,102 +263,102 @@
 "262","Cohort + Region + Structural Factor + Period","Working Team","Western Europe","Rivalry Determinants","","Future",2,2,2,1,3,0.894427190999916,2
 "263","Cohort + Region + Structural Factor + Period","Working Team","Western Europe","Rivalry Determinants","","Current",2.66666666666667,2.66666666666667,3,1,4,1.03279555898864,3
 "264","Cohort + Region + Structural Factor + Period","Working Team","Western Europe","Rivalry Determinants","","Future",3.5,3.5,3,3,5,0.836660026534076,2
-"265","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Conditions of Demand","Certainty of Decline","Current",2,2,1.5,1,4,1.26491106406735,3
-"266","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Conditions of Demand","Certainty of Decline","Future",2.16666666666667,2.16666666666667,2,1,4,1.32916013582513,3
-"267","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Conditions of Demand","Pockets of Enduring Demand","Current",2.16666666666667,2.16666666666667,2,2,3,0.408248290463863,1
-"268","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Conditions of Demand","Pockets of Enduring Demand","Future",2.33333333333333,2.33333333333333,2,2,3,0.516397779494322,1
-"269","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Conditions of Demand","Price Stabiity","Current",1.83333333333333,1.83333333333333,2,1,3,0.752772652709081,2
-"270","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Conditions of Demand","Price Stabiity","Future",1.83333333333333,1.83333333333333,2,1,3,0.752772652709081,2
-"271","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Conditions of Demand","Product Differentiation","Current",3.33333333333333,3.33333333333333,3.5,2,5,1.211060141639,3
-"272","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Conditions of Demand","Product Differentiation","Future",3.33333333333333,3.33333333333333,3.5,2,5,1.211060141639,3
-"273","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Conditions of Demand","Speed of Decline","Current",1.5,1.5,1,1,3,0.836660026534076,2
-"274","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Conditions of Demand","Speed of Decline","Future",1.83333333333333,1.83333333333333,1.5,1,4,1.16904519445001,3
-"275","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Asset Age","Current",2.5,2.5,2,1,4,1.22474487139159,3
-"276","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Asset Age","Future",2.33333333333333,2.33333333333333,2,1,4,1.03279555898864,3
-"277","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Excess Capacity","Current",1.83333333333333,1.83333333333333,1.5,1,3,0.983192080250175,2
-"278","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Excess Capacity","Future",1.83333333333333,1.83333333333333,1.5,1,3,0.983192080250175,2
-"279","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Reinvestment Barriers","Current",3,3,3.5,1,4,1.26491106406735,3
-"280","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Reinvestment Barriers","Future",3.33333333333333,3.33333333333333,3.5,1,5,1.36626010212795,4
-"281","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Resale Markets for Assets","Current",3.5,3.5,3.5,2,5,1.37840487520902,3
-"282","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Resale Markets for Assets","Future",3.33333333333333,3.33333333333333,4,2,4,1.03279555898864,2
-"283","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Shared Facilities","Current",2.33333333333333,2.33333333333333,2.5,1,3,0.816496580927726,2
-"284","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Shared Facilities","Future",2.33333333333333,2.33333333333333,2.5,1,3,0.816496580927726,2
-"285","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Single Product Competitors","Current",3,3,3,2,4,0.632455532033676,2
-"286","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Single Product Competitors","Future",3,3,3,2,4,0.632455532033676,2
-"287","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Vertical Integration","Current",3.16666666666667,3.16666666666667,3.5,1,5,1.47196014438797,4
-"288","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Vertical Integration","Future",3.16666666666667,3.16666666666667,3.5,1,5,1.47196014438797,4
-"289","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Rivalry Determinants","Customer Power","Current",2.16666666666667,2.16666666666667,2,1,3,0.752772652709081,2
-"290","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Rivalry Determinants","Customer Power","Future",2.16666666666667,2.16666666666667,2,1,3,0.752772652709081,2
-"291","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Rivalry Determinants","Customer Switching Costs","Current",2.66666666666667,2.66666666666667,3,2,3,0.516397779494322,1
-"292","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Rivalry Determinants","Customer Switching Costs","Future",2.66666666666667,2.66666666666667,3,2,3,0.516397779494322,1
-"293","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Rivalry Determinants","Economies of Scale","Current",1.66666666666667,1.66666666666667,1.5,1,3,0.816496580927726,2
-"294","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Rivalry Determinants","Economies of Scale","Future",1.5,1.5,1,1,3,0.836660026534076,2
-"295","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Rivalry Determinants","Number of Competitors","Current",4.33333333333333,4.33333333333333,4.5,3,5,0.816496580927726,2
-"296","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Rivalry Determinants","Number of Competitors","Future",4.33333333333333,4.33333333333333,4.5,3,5,0.816496580927726,2
-"297","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Conditions of Demand","Certainty of Decline","Current",2.5,2.5,2.5,1,5,1.51657508881031,4
-"298","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Conditions of Demand","Certainty of Decline","Future",2.5,2.5,2.5,2,3,0.547722557505166,1
-"299","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Conditions of Demand","Pockets of Enduring Demand","Current",2.5,2.5,2.5,2,3,0.547722557505166,1
-"300","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Conditions of Demand","Pockets of Enduring Demand","Future",2.5,2.5,2.5,2,3,0.547722557505166,1
-"301","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Conditions of Demand","Price Stabiity","Current",2.16666666666667,2.16666666666667,2,1,3,0.752772652709081,2
-"302","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Conditions of Demand","Price Stabiity","Future",2,2,2,2,2,0,0
-"303","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Conditions of Demand","Product Differentiation","Current",4,4,4,3,5,0.632455532033676,2
-"304","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Conditions of Demand","Product Differentiation","Future",4,4,4,3,5,0.632455532033676,2
-"305","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Conditions of Demand","Speed of Decline","Current",3,3,3,2,4,0.632455532033676,2
-"306","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Conditions of Demand","Speed of Decline","Future",2.66666666666667,2.66666666666667,2.5,2,4,0.816496580927726,2
-"307","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Asset Age","Current",1.5,1.5,1,1,3,0.836660026534076,2
-"308","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Asset Age","Future",1.66666666666667,1.66666666666667,1,1,4,1.211060141639,3
-"309","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Excess Capacity","Current",3.16666666666667,3.16666666666667,3,3,4,0.408248290463863,1
-"310","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Excess Capacity","Future",3.16666666666667,3.16666666666667,3,2,4,0.752772652709081,2
-"311","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Reinvestment Barriers","Current",4,4,4,3,5,0.632455532033676,2
-"312","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Reinvestment Barriers","Future",4.33333333333333,4.33333333333333,4,4,5,0.516397779494322,1
-"313","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Resale Markets for Assets","Current",3.83333333333333,3.83333333333333,4,2,5,1.16904519445001,3
-"314","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Resale Markets for Assets","Future",4,4,4.5,2,5,1.26491106406735,3
-"315","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Shared Facilities","Current",2.83333333333333,2.83333333333333,3,1,5,1.60208197875972,4
-"316","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Shared Facilities","Future",2.5,2.5,2,1,5,1.7606816861659,4
-"317","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Single Product Competitors","Current",2.83333333333333,2.83333333333333,3,2,4,0.752772652709081,2
-"318","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Single Product Competitors","Future",2.83333333333333,2.83333333333333,3,2,3,0.408248290463863,1
-"319","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Vertical Integration","Current",2.5,2.5,2.5,1,4,1.37840487520902,3
-"320","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Vertical Integration","Future",2.66666666666667,2.66666666666667,3,1,4,1.50554530541816,3
-"321","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Rivalry Determinants","Customer Power","Current",3.33333333333333,3.33333333333333,3.5,2,4,0.816496580927726,2
-"322","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Rivalry Determinants","Customer Power","Future",3.66666666666667,3.66666666666667,4,3,4,0.516397779494322,1
-"323","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Rivalry Determinants","Customer Switching Costs","Current",3.16666666666667,3.16666666666667,3,3,4,0.408248290463863,1
-"324","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Rivalry Determinants","Customer Switching Costs","Future",3,3,3,2,4,0.632455532033676,2
-"325","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Rivalry Determinants","Economies of Scale","Current",1.66666666666667,1.66666666666667,1.5,1,3,0.816496580927726,2
-"326","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Rivalry Determinants","Economies of Scale","Future",1.66666666666667,1.66666666666667,1.5,1,3,0.816496580927726,2
-"327","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Rivalry Determinants","Number of Competitors","Current",4,4,4,3,5,0.632455532033676,2
-"328","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Rivalry Determinants","Number of Competitors","Future",4.33333333333333,4.33333333333333,4,4,5,0.516397779494322,1
-"329","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Conditions of Demand","Certainty of Decline","Current",2.16666666666667,2.16666666666667,2.5,1,3,0.983192080250175,2
-"330","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Conditions of Demand","Certainty of Decline","Future",2.66666666666667,2.66666666666667,2.5,1,4,1.211060141639,3
-"331","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Conditions of Demand","Pockets of Enduring Demand","Current",2.66666666666667,2.66666666666667,3,2,3,0.516397779494322,1
-"332","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Conditions of Demand","Pockets of Enduring Demand","Future",2.66666666666667,2.66666666666667,3,2,3,0.516397779494322,1
-"333","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Conditions of Demand","Price Stabiity","Current",3,3,3,2,4,0.894427190999916,2
-"334","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Conditions of Demand","Price Stabiity","Future",2.5,2.5,2.5,2,3,0.547722557505166,1
-"335","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Conditions of Demand","Product Differentiation","Current",3.66666666666667,3.66666666666667,4,2,5,1.03279555898864,3
-"336","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Conditions of Demand","Product Differentiation","Future",3.66666666666667,3.66666666666667,4,2,5,1.03279555898864,3
-"337","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Conditions of Demand","Speed of Decline","Current",3.16666666666667,3.16666666666667,3,3,4,0.408248290463863,1
-"338","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Conditions of Demand","Speed of Decline","Future",2.83333333333333,2.83333333333333,3,2,3,0.408248290463863,1
-"339","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Asset Age","Current",1.5,1.5,1,1,3,0.836660026534076,2
-"340","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Asset Age","Future",1.33333333333333,1.33333333333333,1,1,2,0.516397779494322,1
-"341","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Excess Capacity","Current",3.33333333333333,3.33333333333333,3,3,4,0.516397779494322,1
-"342","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Excess Capacity","Future",2.83333333333333,2.83333333333333,2.5,2,4,0.983192080250175,2
-"343","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Reinvestment Barriers","Current",3.66666666666667,3.66666666666667,4,2,5,1.03279555898864,3
-"344","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Reinvestment Barriers","Future",4,4,4,3,5,0.894427190999916,2
-"345","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Resale Markets for Assets","Current",3.83333333333333,3.83333333333333,4,2,5,1.16904519445001,3
-"346","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Resale Markets for Assets","Future",4,4,4.5,2,5,1.26491106406735,3
-"347","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Shared Facilities","Current",2.66666666666667,2.66666666666667,2.5,1,5,1.63299316185545,4
-"348","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Shared Facilities","Future",2.66666666666667,2.66666666666667,2.5,1,5,1.63299316185545,4
-"349","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Single Product Competitors","Current",2.66666666666667,2.66666666666667,3,1,3,0.816496580927726,2
-"350","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Single Product Competitors","Future",2.66666666666667,2.66666666666667,3,1,3,0.816496580927726,2
-"351","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Vertical Integration","Current",2.33333333333333,2.33333333333333,2.5,1,4,1.211060141639,3
-"352","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Vertical Integration","Future",2.5,2.5,2.5,1,4,1.37840487520902,3
-"353","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Rivalry Determinants","Customer Power","Current",3.33333333333333,3.33333333333333,3,3,4,0.516397779494322,1
-"354","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Rivalry Determinants","Customer Power","Future",3.33333333333333,3.33333333333333,3,3,4,0.516397779494322,1
-"355","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Rivalry Determinants","Customer Switching Costs","Current",3.33333333333333,3.33333333333333,3,3,4,0.516397779494322,1
-"356","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Rivalry Determinants","Customer Switching Costs","Future",3.16666666666667,3.16666666666667,3,3,4,0.408248290463863,1
-"357","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Rivalry Determinants","Economies of Scale","Current",1.66666666666667,1.66666666666667,1.5,1,3,0.816496580927726,2
-"358","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Rivalry Determinants","Economies of Scale","Future",1.66666666666667,1.66666666666667,1.5,1,3,0.816496580927726,2
-"359","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Rivalry Determinants","Number of Competitors","Current",2.5,2.5,2,2,4,0.836660026534076,2
-"360","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Rivalry Determinants","Number of Competitors","Future",3.66666666666667,3.66666666666667,4,3,4,0.516397779494322,1
+"265","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Conditions of Demand","Certainty of Decline","Current",2,2,2,1,4,1.15470053837925,3
+"266","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Conditions of Demand","Certainty of Decline","Future",2.14285714285714,2.14285714285714,2,1,4,1.21498579258791,3
+"267","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Conditions of Demand","Pockets of Enduring Demand","Current",2.14285714285714,2.14285714285714,2,2,3,0.377964473009227,1
+"268","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Conditions of Demand","Pockets of Enduring Demand","Future",2.28571428571429,2.28571428571429,2,2,3,0.487950036474267,1
+"269","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Conditions of Demand","Price Stabiity","Current",1.85714285714286,1.85714285714286,2,1,3,0.690065559342354,2
+"270","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Conditions of Demand","Price Stabiity","Future",1.85714285714286,1.85714285714286,2,1,3,0.690065559342354,2
+"271","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Conditions of Demand","Product Differentiation","Current",3,3,3,1,5,1.4142135623731,4
+"272","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Conditions of Demand","Product Differentiation","Future",3,3,3,1,5,1.4142135623731,4
+"273","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Conditions of Demand","Speed of Decline","Current",1.42857142857143,1.42857142857143,1,1,3,0.786795792469443,2
+"274","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Conditions of Demand","Speed of Decline","Future",1.71428571428571,1.71428571428571,1,1,4,1.11269728052837,3
+"275","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Asset Age","Current",2.57142857142857,2.57142857142857,2,1,4,1.13389341902768,3
+"276","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Asset Age","Future",2.28571428571429,2.28571428571429,2,1,4,0.951189731211342,3
+"277","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Excess Capacity","Current",1.71428571428571,1.71428571428571,1,1,3,0.951189731211342,2
+"278","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Excess Capacity","Future",1.71428571428571,1.71428571428571,1,1,3,0.951189731211342,2
+"279","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Reinvestment Barriers","Current",3.14285714285714,3.14285714285714,4,1,4,1.21498579258791,3
+"280","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Reinvestment Barriers","Future",3.42857142857143,3.42857142857143,4,1,5,1.2724180205607,4
+"281","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Resale Markets for Assets","Current",3.42857142857143,3.42857142857143,3,2,5,1.2724180205607,3
+"282","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Resale Markets for Assets","Future",3.14285714285714,3.14285714285714,4,2,4,1.0690449676497,2
+"283","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Shared Facilities","Current",2.57142857142857,2.57142857142857,3,1,4,0.975900072948533,3
+"284","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Shared Facilities","Future",2.57142857142857,2.57142857142857,3,1,4,0.975900072948533,3
+"285","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Single Product Competitors","Current",3,3,3,2,4,0.577350269189626,2
+"286","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Single Product Competitors","Future",3,3,3,2,4,0.577350269189626,2
+"287","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Vertical Integration","Current",3.14285714285714,3.14285714285714,3,1,5,1.3451854182691,4
+"288","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Exit Barriers","Vertical Integration","Future",3.14285714285714,3.14285714285714,3,1,5,1.3451854182691,4
+"289","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Rivalry Determinants","Customer Power","Current",2.14285714285714,2.14285714285714,2,1,3,0.690065559342354,2
+"290","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Rivalry Determinants","Customer Power","Future",2.14285714285714,2.14285714285714,2,1,3,0.690065559342354,2
+"291","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Rivalry Determinants","Customer Switching Costs","Current",2.57142857142857,2.57142857142857,3,2,3,0.534522483824849,1
+"292","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Rivalry Determinants","Customer Switching Costs","Future",2.57142857142857,2.57142857142857,3,2,3,0.534522483824849,1
+"293","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Rivalry Determinants","Economies of Scale","Current",1.71428571428571,1.71428571428571,2,1,3,0.755928946018454,2
+"294","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Rivalry Determinants","Economies of Scale","Future",1.57142857142857,1.57142857142857,1,1,3,0.786795792469443,2
+"295","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Rivalry Determinants","Number of Competitors","Current",4.42857142857143,4.42857142857143,5,3,5,0.786795792469443,2
+"296","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Latin America","Rivalry Determinants","Number of Competitors","Future",4.42857142857143,4.42857142857143,5,3,5,0.786795792469443,2
+"297","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Conditions of Demand","Certainty of Decline","Current",2.42857142857143,2.42857142857143,2,1,5,1.39727626201154,4
+"298","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Conditions of Demand","Certainty of Decline","Future",2.57142857142857,2.57142857142857,3,2,3,0.534522483824849,1
+"299","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Conditions of Demand","Pockets of Enduring Demand","Current",2.57142857142857,2.57142857142857,3,2,3,0.534522483824849,1
+"300","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Conditions of Demand","Pockets of Enduring Demand","Future",2.57142857142857,2.57142857142857,3,2,3,0.534522483824849,1
+"301","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Conditions of Demand","Price Stabiity","Current",2.14285714285714,2.14285714285714,2,1,3,0.690065559342354,2
+"302","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Conditions of Demand","Price Stabiity","Future",2.14285714285714,2.14285714285714,2,2,3,0.377964473009227,1
+"303","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Conditions of Demand","Product Differentiation","Current",3.71428571428571,3.71428571428571,4,2,5,0.951189731211342,3
+"304","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Conditions of Demand","Product Differentiation","Future",3.85714285714286,3.85714285714286,4,3,5,0.690065559342354,2
+"305","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Conditions of Demand","Speed of Decline","Current",2.85714285714286,2.85714285714286,3,2,4,0.690065559342354,2
+"306","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Conditions of Demand","Speed of Decline","Future",2.71428571428571,2.71428571428571,3,2,4,0.755928946018454,2
+"307","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Asset Age","Current",1.71428571428571,1.71428571428571,1,1,3,0.951189731211342,2
+"308","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Asset Age","Future",1.85714285714286,1.85714285714286,1,1,4,1.21498579258791,3
+"309","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Excess Capacity","Current",3.14285714285714,3.14285714285714,3,3,4,0.377964473009227,1
+"310","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Excess Capacity","Future",3.28571428571429,3.28571428571429,3,2,4,0.755928946018454,2
+"311","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Reinvestment Barriers","Current",4,4,4,3,5,0.577350269189626,2
+"312","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Reinvestment Barriers","Future",4.42857142857143,4.42857142857143,4,4,5,0.534522483824849,1
+"313","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Resale Markets for Assets","Current",3.85714285714286,3.85714285714286,4,2,5,1.0690449676497,3
+"314","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Resale Markets for Assets","Future",4.14285714285714,4.14285714285714,5,2,5,1.21498579258791,3
+"315","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Shared Facilities","Current",3,3,3,1,5,1.52752523165195,4
+"316","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Shared Facilities","Future",2.57142857142857,2.57142857142857,3,1,5,1.61834718742537,4
+"317","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Single Product Competitors","Current",2.85714285714286,2.85714285714286,3,2,4,0.690065559342354,2
+"318","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Single Product Competitors","Future",2.85714285714286,2.85714285714286,3,2,3,0.377964473009227,1
+"319","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Vertical Integration","Current",2.57142857142857,2.57142857142857,3,1,4,1.2724180205607,3
+"320","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Exit Barriers","Vertical Integration","Future",2.71428571428571,2.71428571428571,3,1,4,1.38013111868471,3
+"321","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Rivalry Determinants","Customer Power","Current",3.28571428571429,3.28571428571429,3,2,4,0.755928946018454,2
+"322","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Rivalry Determinants","Customer Power","Future",3.71428571428571,3.71428571428571,4,3,4,0.487950036474267,1
+"323","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Rivalry Determinants","Customer Switching Costs","Current",3.14285714285714,3.14285714285714,3,3,4,0.377964473009227,1
+"324","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Rivalry Determinants","Customer Switching Costs","Future",3.14285714285714,3.14285714285714,3,2,4,0.690065559342354,2
+"325","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Rivalry Determinants","Economies of Scale","Current",1.85714285714286,1.85714285714286,2,1,3,0.899735410842437,2
+"326","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Rivalry Determinants","Economies of Scale","Future",2,2,2,1,4,1.15470053837925,3
+"327","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Rivalry Determinants","Number of Competitors","Current",3.85714285714286,3.85714285714286,4,3,5,0.690065559342354,2
+"328","Cohort + Region + Structural Factor + Question + Period","Strategy Council","North America","Rivalry Determinants","Number of Competitors","Future",4.28571428571429,4.28571428571429,4,4,5,0.487950036474267,1
+"329","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Conditions of Demand","Certainty of Decline","Current",2.14285714285714,2.14285714285714,2,1,3,0.899735410842437,2
+"330","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Conditions of Demand","Certainty of Decline","Future",2.57142857142857,2.57142857142857,2,1,4,1.13389341902768,3
+"331","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Conditions of Demand","Pockets of Enduring Demand","Current",2.71428571428571,2.71428571428571,3,2,3,0.487950036474267,1
+"332","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Conditions of Demand","Pockets of Enduring Demand","Future",2.71428571428571,2.71428571428571,3,2,3,0.487950036474267,1
+"333","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Conditions of Demand","Price Stabiity","Current",2.85714285714286,2.85714285714286,3,2,4,0.899735410842437,2
+"334","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Conditions of Demand","Price Stabiity","Future",2.57142857142857,2.57142857142857,3,2,3,0.534522483824849,1
+"335","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Conditions of Demand","Product Differentiation","Current",3.42857142857143,3.42857142857143,4,2,5,1.13389341902768,3
+"336","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Conditions of Demand","Product Differentiation","Future",3.57142857142857,3.57142857142857,4,2,5,0.975900072948533,3
+"337","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Conditions of Demand","Speed of Decline","Current",3.14285714285714,3.14285714285714,3,3,4,0.377964473009227,1
+"338","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Conditions of Demand","Speed of Decline","Future",3,3,3,2,4,0.577350269189626,2
+"339","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Asset Age","Current",1.71428571428571,1.71428571428571,1,1,3,0.951189731211342,2
+"340","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Asset Age","Future",1.57142857142857,1.57142857142857,1,1,3,0.786795792469443,2
+"341","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Excess Capacity","Current",3.28571428571429,3.28571428571429,3,3,4,0.487950036474267,1
+"342","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Excess Capacity","Future",3,3,3,2,4,1,2
+"343","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Reinvestment Barriers","Current",3.57142857142857,3.57142857142857,4,2,5,0.975900072948533,3
+"344","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Reinvestment Barriers","Future",4,4,4,3,5,0.816496580927726,2
+"345","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Resale Markets for Assets","Current",3.71428571428571,3.71428571428571,4,2,5,1.11269728052837,3
+"346","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Resale Markets for Assets","Future",4,4,4,2,5,1.15470053837925,3
+"347","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Shared Facilities","Current",2.85714285714286,2.85714285714286,3,1,5,1.57359158493889,4
+"348","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Shared Facilities","Future",2.71428571428571,2.71428571428571,3,1,5,1.49602648308619,4
+"349","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Single Product Competitors","Current",2.71428571428571,2.71428571428571,3,1,3,0.755928946018454,2
+"350","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Single Product Competitors","Future",2.71428571428571,2.71428571428571,3,1,3,0.755928946018454,2
+"351","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Vertical Integration","Current",2.42857142857143,2.42857142857143,3,1,4,1.13389341902768,3
+"352","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Exit Barriers","Vertical Integration","Future",2.57142857142857,2.57142857142857,3,1,4,1.2724180205607,3
+"353","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Rivalry Determinants","Customer Power","Current",3.42857142857143,3.42857142857143,3,3,4,0.534522483824849,1
+"354","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Rivalry Determinants","Customer Power","Future",3.57142857142857,3.57142857142857,3,3,5,0.786795792469443,2
+"355","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Rivalry Determinants","Customer Switching Costs","Current",3.14285714285714,3.14285714285714,3,2,4,0.690065559342354,2
+"356","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Rivalry Determinants","Customer Switching Costs","Future",3.14285714285714,3.14285714285714,3,3,4,0.377964473009227,1
+"357","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Rivalry Determinants","Economies of Scale","Current",1.85714285714286,1.85714285714286,2,1,3,0.899735410842437,2
+"358","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Rivalry Determinants","Economies of Scale","Future",2,2,2,1,4,1.15470053837925,3
+"359","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Rivalry Determinants","Number of Competitors","Current",2.42857142857143,2.42857142857143,2,2,4,0.786795792469443,2
+"360","Cohort + Region + Structural Factor + Question + Period","Strategy Council","Western Europe","Rivalry Determinants","Number of Competitors","Future",3.57142857142857,3.57142857142857,4,3,4,0.534522483824849,1
 "361","Cohort + Region + Structural Factor + Question + Period","Working Team","Latin America","Conditions of Demand","Certainty of Decline","Current",2.83333333333333,2.83333333333333,3,2,4,0.752772652709081,2
 "362","Cohort + Region + Structural Factor + Question + Period","Working Team","Latin America","Conditions of Demand","Certainty of Decline","Future",2.83333333333333,2.83333333333333,3,1,4,0.983192080250175,3
 "363","Cohort + Region + Structural Factor + Question + Period","Working Team","Latin America","Conditions of Demand","Pockets of Enduring Demand","Current",2.5,2.5,2.5,2,3,0.547722557505166,1
